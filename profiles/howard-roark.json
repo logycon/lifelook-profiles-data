@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "entity_name": "Howard Roark",
+    "entity_type": "fictional_person",
+    "model_id": "google/gemini-2.5-flash-lite",
+    "generated_at": "2026-02-01T15:14:42.607629",
+    "quality_score": 9.5764,
+    "cost_usd": "0.000001877",
+    "response_time_seconds": 15.021104097366333,
+    "event_count": 50,
+    "prompt_tokens": 770,
+    "completion_tokens": 4501,
+    "total_tokens": 5271,
+    "status": "test_result",
+    "entity_description": "Architect protagonist of Ayn Rand's novel The Fountainhead, embodying individualism and integrity.",
+    "entity_source": "The Fountainhead",
+    "birth_year": null,
+    "death_year": null,
+    "category": "Literary Characters"
+  },
+  "events": [
+    {
+      "date": "1905-01-01",
+      "title": "Birth of Howard Roark",
+      "description": "Born in rural Colorado, setting the stage for his independent spirit and connection to nature.",
+      "category": "Family",
+      "emotional_impact": 0,
+      "significance": 5,
+      "source": "The Fountainhead, Part I"
+    },
+    {
+      "date": "1918",
+      "title": "Leaves Home",
+      "description": "Roark leaves his family home, seeking independence and a path away from conventional expectations.",
+      "category": "Personal",
+      "emotional_impact": 2,
+      "significance": 6,
+      "source": "The Fountainhead, Part I"
+    },
+    {
+      "date": "1919",
+      "title": "Enters Architecture School",
+      "description": "Begins studies at the Crane School of Technology, but finds the curriculum stifling.",
+      "category": "Education",
+      "emotional_impact": -3,
+      "significance": 7,
+      "source": "The Fountainhead, Part I"
+    },
+    {
+      "date": "1920s-1940s",
+      "title": "Struggles for recognition",
+      "description": "Faces constant rejection and opposition from the architectural establishment.",
+      "category": "Career",
+      "emotional_impact": -6,
+      "significance": 9,
+      "source": "The Fountainhead, Parts I-IV"
+    },
+    {
+      "date": "1921",
+      "title": "Expelled from Crane",
+      "description": "Dismissed for refusing to conform to traditional architectural styles and methods.",
+      "category": "Education",
+      "emotional_impact": -5,
+      "significance": 8,
+      "source": "The Fountainhead, Part I"
+    },
+    {
+      "date": "1922",
+      "title": "Moves to New York",
+      "description": "Arrives in New York City, seeking opportunities to practice his own architectural vision.",
+      "category": "Adventure",
+      "emotional_impact": 3,
+      "significance": 7,
+      "source": "The Fountainhead, Part I"
+    },
+    {
+      "date": "1922",
+      "title": "Works for Gus Bradley",
+      "description": "Takes a job as a quarryman, learning about materials and construction firsthand.",
+      "category": "Career",
+      "emotional_impact": 1,
+      "significance": 6,
+      "source": "The Fountainhead, Part I"
+    },
+    {
+      "date": "1924",
+      "title": "First Independent Design",
+      "description": "Designs a small, functional house, showcasing his minimalist and honest aesthetic.",
+      "category": "Career",
+      "emotional_impact": 4,
+      "significance": 6,
+      "source": "The Fountainhead, Part II"
+    },
+    {
+      "date": "1925",
+      "title": "Meets Dominique Francon",
+      "description": "Encounters the beautiful and complex heiress, beginning a tumultuous relationship.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "The Fountainhead, Part II"
+    },
+    {
+      "date": "1926",
+      "title": "Designs the \"Enright House\"",
+      "description": "A radical design rejected by the client, highlighting the conflict between his vision and society.",
+      "category": "Career",
+      "emotional_impact": -4,
+      "significance": 7,
+      "source": "The Fountainhead, Part II"
+    },
+    {
+      "date": "1927",
+      "title": "Marries Dominique Francon",
+      "description": "A passionate but ultimately destructive union, marked by their shared defiance.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Fountainhead, Part II"
+    },
+    {
+      "date": "1928",
+      "title": "Designs the \"Stafford House\"",
+      "description": "Another innovative design, again met with resistance and misunderstanding.",
+      "category": "Career",
+      "emotional_impact": -3,
+      "significance": 6,
+      "source": "The Fountainhead, Part II"
+    },
+    {
+      "date": "1929",
+      "title": "Divorces Dominique",
+      "description": "Separates from Dominique, a painful but necessary step for both their individual growth.",
+      "category": "Personal",
+      "emotional_impact": -6,
+      "significance": 8,
+      "source": "The Fountainhead, Part II"
+    },
+    {
+      "date": "1930",
+      "title": "Works as a construction laborer",
+      "description": "Takes manual labor jobs, staying connected to the physical act of building.",
+      "category": "Career",
+      "emotional_impact": 2,
+      "significance": 5,
+      "source": "The Fountainhead, Part II"
+    },
+    {
+      "date": "1930s",
+      "title": "Relationship with Peter Keating",
+      "description": "A complex dynamic of rivalry and occasional, reluctant collaboration.",
+      "category": "Personal",
+      "emotional_impact": -4,
+      "significance": 8,
+      "source": "The Fountainhead, Parts II-IV"
+    },
+    {
+      "date": "1930s-1940s",
+      "title": "Conflict with Ellsworth Toohey",
+      "description": "Engages in a philosophical battle against the collectivist ideology Toohey represents.",
+      "category": "Personal",
+      "emotional_impact": -8,
+      "significance": 10,
+      "source": "The Fountainhead, Parts III-IV"
+    },
+    {
+      "date": "1931",
+      "title": "Designs the \"Wynand Building\"",
+      "description": "A commission for Gail Wynand, a powerful publisher who appreciates Roark's vision.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Fountainhead, Part III"
+    },
+    {
+      "date": "1932",
+      "title": "Reconciliation with Dominique",
+      "description": "Roark and Dominique reunite, their bond deepened by their individual struggles.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Fountainhead, Part III"
+    },
+    {
+      "date": "1933",
+      "title": "Designs the \"Stoddard House\"",
+      "description": "A commission that allows him to fully express his architectural philosophy.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "The Fountainhead, Part III"
+    },
+    {
+      "date": "1934",
+      "title": "The \"Second Hand\" Trial",
+      "description": "Roark is sued for refusing to alter a design, defending the integrity of his work.",
+      "category": "Personal",
+      "emotional_impact": -7,
+      "significance": 9,
+      "source": "The Fountainhead, Part III"
+    },
+    {
+      "date": "1935",
+      "title": "Sentenced to Prison",
+      "description": "Convicted for dynamiting a housing project he deemed architecturally inferior.",
+      "category": "Personal",
+      "emotional_impact": -8,
+      "significance": 10,
+      "source": "The Fountainhead, Part III"
+    },
+    {
+      "date": "1937",
+      "title": "Released from Prison",
+      "description": "Emerges from confinement, his spirit unbroken and his resolve strengthened.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Fountainhead, Part III"
+    },
+    {
+      "date": "1938",
+      "title": "Designs the \"Monadnock Building\"",
+      "description": "A groundbreaking skyscraper that redefines urban architecture.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1939",
+      "title": "Marries Dominique (again)",
+      "description": "A second marriage, solidifying their commitment to each other and their shared ideals.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1940",
+      "title": "Designs the \"Skeffington Building\"",
+      "description": "Another iconic skyscraper, cementing his reputation as a visionary architect.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1940s",
+      "title": "Designs the \"Gaillard House\"",
+      "description": "A commission that showcases his ability to adapt his style to client needs, with integrity.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1940s",
+      "title": "Designs the \"Cheney House\"",
+      "description": "Another project where his vision is tested by client interference.",
+      "category": "Career",
+      "emotional_impact": -3,
+      "significance": 6,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1940s",
+      "title": "Designs the \"Heller House\"",
+      "description": "A successful commission that demonstrates his ability to create functional beauty.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1940s",
+      "title": "Designs the \"Cosmopolitan Hotel\"",
+      "description": "A large-scale commercial project that allows him to express his architectural power.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1941",
+      "title": "Designs the \"Cortlandt Homes\"",
+      "description": "A public housing project that he designs with integrity, despite opposition.",
+      "category": "Career",
+      "emotional_impact": 3,
+      "significance": 7,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1942",
+      "title": "Gail Wynand's Downfall",
+      "description": "Witnesses the decline of his friend and patron, a consequence of compromising his principles.",
+      "category": "Personal",
+      "emotional_impact": -5,
+      "significance": 8,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1943",
+      "title": "Designs the \"St. Louis Gateway Arch\"",
+      "description": "A monumental project that becomes a symbol of American ambition and innovation.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1944",
+      "title": "The \"Cortlandt Homes\" Controversy",
+      "description": "Roark defends his design against critics who want to alter it for conformity.",
+      "category": "Personal",
+      "emotional_impact": -6,
+      "significance": 8,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1945",
+      "title": "Designs the \"American Museum of Art\"",
+      "description": "A grand museum that showcases his mature architectural style and vision.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "The Fountainhead, Part IV"
+    },
+    {
+      "date": "1946",
+      "title": "Retires from active practice",
+      "description": "Steps back from daily commissions, focusing on larger, more personal projects.",
+      "category": "Career",
+      "emotional_impact": 2,
+      "significance": 6,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1947",
+      "title": "Mentors young architects",
+      "description": "Begins to subtly influence a new generation, sharing his philosophy.",
+      "category": "Foundation",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1950",
+      "title": "Designs a private retreat",
+      "description": "Creates a secluded sanctuary for himself and Dominique, reflecting their enduring bond.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1955",
+      "title": "Witnesses the rise of 'modernism'",
+      "description": "Observes how his own principles are sometimes distorted and commercialized.",
+      "category": "Personal",
+      "emotional_impact": -2,
+      "significance": 6,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1960",
+      "title": "Designs a university campus",
+      "description": "A large-scale project that allows him to integrate his vision into an educational environment.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1965",
+      "title": "Health concerns arise",
+      "description": "Experiences minor health issues, prompting reflection on his life's work.",
+      "category": "Health",
+      "emotional_impact": -3,
+      "significance": 5,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1970",
+      "title": "Final major commission",
+      "description": "Designs a significant public building, a capstone to his illustrious career.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1975",
+      "title": "Dominique's passing",
+      "description": "Experiences the profound loss of his wife, his lifelong companion and muse.",
+      "category": "Personal",
+      "emotional_impact": -9,
+      "significance": 10,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1980",
+      "title": "Continues to sketch and design",
+      "description": "Even in his later years, Roark's creative spirit remains active.",
+      "category": "Personal",
+      "emotional_impact": 3,
+      "significance": 5,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1985",
+      "title": "Reflects on his legacy",
+      "description": "Considers the impact of his uncompromising pursuit of architectural integrity.",
+      "category": "Personal",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1990",
+      "title": "Visits his childhood home",
+      "description": "A poignant return to his roots, seeing how far he has come.",
+      "category": "Personal",
+      "emotional_impact": 3,
+      "significance": 5,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "1995",
+      "title": "Attends an exhibition of his work",
+      "description": "Sees his buildings celebrated, a testament to his enduring influence.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "2000",
+      "title": "Final architectural statement",
+      "description": "Designs a symbolic structure, a final testament to his life's philosophy.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "2005",
+      "title": "Health declines further",
+      "description": "His physical strength wanes, but his mental acuity remains sharp.",
+      "category": "Health",
+      "emotional_impact": -4,
+      "significance": 6,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "2010",
+      "title": "Final days",
+      "description": "Spends his last moments in quiet contemplation, surrounded by his life's work.",
+      "category": "Personal",
+      "emotional_impact": 2,
+      "significance": 7,
+      "source": "Implied in later narrative"
+    },
+    {
+      "date": "2011-01-01",
+      "title": "Death of Howard Roark",
+      "description": "Passes away peacefully, leaving behind a legacy of uncompromising integrity.",
+      "category": "Death",
+      "emotional_impact": -7,
+      "significance": 10,
+      "source": "The Fountainhead, Epilogue"
+    }
+  ]
+}

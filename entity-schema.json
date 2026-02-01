@@ -1,0 +1,171 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Person Profile Schema",
+  "description": "Schema for LifeLook biographical person profiles with life events",
+  "type": "object",
+  "required": ["person", "events", "metadata"],
+  "properties": {
+    "person": {
+      "type": "object",
+      "required": ["id", "name", "qid", "birth_date", "occupation", "category", "priority", "source", "discovery_timestamp"],
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier (kebab-case)"
+        },
+        "name": {
+          "type": "string",
+          "description": "Full name of the person"
+        },
+        "qid": {
+          "type": "string",
+          "description": "Wikidata Q-identifier"
+        },
+        "birth_date": {
+          "type": "string",
+          "format": "date",
+          "description": "Birth date in YYYY-MM-DD format"
+        },
+        "death_date": {
+          "type": "string",
+          "format": "date",
+          "description": "Death date in YYYY-MM-DD format (optional)"
+        },
+        "occupation": {
+          "type": "string",
+          "description": "Primary occupation or role"
+        },
+        "category": {
+          "type": "string",
+          "description": "Category from people_list.json (dynamic based on available categories)"
+        },
+        "priority": {
+          "type": "string",
+          "enum": ["high", "medium", "low"],
+          "description": "Discovery priority level"
+        },
+        "source": {
+          "type": "string",
+          "description": "Data source (configured, wikidata, pantheon)"
+        },
+        "discovery_timestamp": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this profile was generated"
+        }
+      }
+    },
+    "events": {
+      "type": "array",
+      "description": "List of biographical life events",
+      "items": {
+        "type": "object",
+        "required": ["date", "title", "description", "category", "emotional_impact", "significance", "precision"],
+        "properties": {
+          "date": {
+            "type": "string",
+            "format": "date",
+            "description": "Event date in YYYY-MM-DD format"
+          },
+          "title": {
+            "type": "string",
+            "description": "Brief event title"
+          },
+          "description": {
+            "type": "string",
+            "description": "Detailed event description"
+          },
+          "category": {
+            "type": "string",
+            "enum": ["Birth", "Death", "Education", "Career", "Personal", "Family", "Achievement", "Award", "Publication", "Travel", "Health", "Relationship", "Creative", "Political", "Military", "Religious", "Other"],
+            "description": "Event category for causometry analysis"
+          },
+          "emotional_impact": {
+            "type": "integer",
+            "minimum": -10,
+            "maximum": 10,
+            "description": "Emotional impact score (-10 to +10)"
+          },
+          "significance": {
+            "type": "integer",
+            "minimum": 1,
+            "maximum": 10,
+            "description": "Life significance score (1 to 10)"
+          },
+          "precision": {
+            "type": "string",
+            "enum": ["day", "month", "year", "decade", "estimated"],
+            "description": "Date precision level"
+          },
+          "source_url": {
+            "type": "string",
+            "description": "Source URL for verification (optional)"
+          }
+        }
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "required": ["total_events", "event_categories", "emotional_range", "significance_range", "quality_score", "last_updated"],
+      "properties": {
+        "total_events": {
+          "type": "integer",
+          "minimum": 0,
+          "description": "Total number of events"
+        },
+        "event_categories": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "List of unique event categories in this profile"
+        },
+        "emotional_range": {
+          "type": "object",
+          "properties": {
+            "min": {
+              "type": "integer",
+              "minimum": -10,
+              "maximum": 10
+            },
+            "max": {
+              "type": "integer",
+              "minimum": -10,
+              "maximum": 10
+            }
+          },
+          "required": ["min", "max"],
+          "description": "Range of emotional impact scores"
+        },
+        "significance_range": {
+          "type": "object",
+          "properties": {
+            "min": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10
+            },
+            "max": {
+              "type": "integer",
+              "minimum": 1,
+              "maximum": 10
+            }
+          },
+          "required": ["min", "max"],
+          "description": "Range of significance scores"
+        },
+        "quality_score": {
+          "type": "number",
+          "minimum": 0,
+          "maximum": 1,
+          "description": "Overall profile quality score (0-1)"
+        },
+        "last_updated": {
+          "type": "string",
+          "format": "date-time",
+          "description": "When this profile was last updated"
+        }
+      }
+    }
+  }
+}

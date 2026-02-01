@@ -1,0 +1,17 @@
+{
+  "version": "1.0.0",
+  "description": "Index of all entity profiles for LifeLook",
+  "lastUpdated": "2026-02-01",
+  "entities": [
+    {
+      "name": "Harold Finch",
+      "type": "fictional_person",
+      "path": "profiles/harold-finch.json"
+    },
+    {
+      "name": "Howard Roark",
+      "type": "fictional_person",
+      "path": "profiles/howard-roark.json"
+    }
+  ]
+}
