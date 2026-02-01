@@ -1,0 +1,1823 @@
+{
+  "metadata": {
+    "entity_name": "Raymond Reddington",
+    "entity_type": "fictional_person",
+    "model_id": "google/gemini-2.5-flash-lite",
+    "generated_at": "2026-02-01T15:51:55.360912",
+    "quality_score": 9.0738,
+    "cost_usd": "0.000009822",
+    "response_time_seconds": 57.2285635471344,
+    "event_count": 200,
+    "prompt_tokens": 29837,
+    "completion_tokens": 17097,
+    "total_tokens": 46934,
+    "status": "test_result",
+    "entity_description": "Fictional ex-US Navy officer turned blacklist mastermind in 'The Blacklist'",
+    "entity_source": "The Blacklist (TV series)",
+    "birth_year": null,
+    "death_year": null,
+    "category": "TV Characters"
+  },
+  "events": [
+    {
+      "date": "1970s",
+      "title": "Childhood Trauma",
+      "description": "Experiences early childhood trauma and instability.",
+      "category": "Family",
+      "emotional_impact": -7,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1970-09-23",
+      "title": "Birth of Raymond Reddington",
+      "description": "Born Raymond Reddington, son of Katarina Rostova and an unknown father.",
+      "category": "Family",
+      "emotional_impact": 0,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1971",
+      "title": "Katarina's Mission",
+      "description": "Katarina Rostova undertakes a critical KGB mission.",
+      "category": "Career",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1975",
+      "title": "Katarina's Espionage",
+      "description": "Katarina Rostova operates as a deep-cover KGB spy.",
+      "category": "Career",
+      "emotional_impact": 3,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1977",
+      "title": "Katarina's Disappearance",
+      "description": "Katarina Rostova vanishes, leaving young Raymond in the care of others.",
+      "category": "Family",
+      "emotional_impact": -8,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1978",
+      "title": "Katarina's Dilemma",
+      "description": "Katarina faces a critical choice regarding her son.",
+      "category": "Family",
+      "emotional_impact": -5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1980s",
+      "title": "Early Training",
+      "description": "Receives rigorous training in espionage and combat from Katarina.",
+      "category": "Education",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1980s",
+      "title": "Espionage Training",
+      "description": "Undergoes intense training from Katarina Rostova.",
+      "category": "Education",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1980",
+      "title": "Early Encounters",
+      "description": "Has early, formative encounters with figures from his mother's past.",
+      "category": "Personal",
+      "emotional_impact": 4,
+      "significance": 6,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1982",
+      "title": "Adoption Process",
+      "description": "The process of Raymond's adoption by the Reddingtons begins.",
+      "category": "Family",
+      "emotional_impact": 3,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1984",
+      "title": "Adoption by Reddingtons",
+      "description": "Raymond is adopted by the Reddington family, unaware of his true parentage.",
+      "category": "Family",
+      "emotional_impact": 3,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1985",
+      "title": "Naval Academy",
+      "description": "Attends the U.S. Naval Academy, excelling in academics.",
+      "category": "Education",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1986",
+      "title": "Naval Intelligence",
+      "description": "Begins active duty in naval intelligence.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1988",
+      "title": "Naval Training",
+      "description": "Undergoes advanced training in naval intelligence.",
+      "category": "Education",
+      "emotional_impact": 4,
+      "significance": 6,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1990",
+      "title": "Enlistment in the Navy",
+      "description": "Raymond enlists in the U.S. Navy, beginning his military career.",
+      "category": "Career",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1990s",
+      "title": "Naval Officer",
+      "description": "Serves as a promising officer in the U.S. Navy.",
+      "category": "Career",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1990s",
+      "title": "Naval Intelligence",
+      "description": "Works in naval intelligence, honing his skills.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1992",
+      "title": "Intelligence Briefings",
+      "description": "Receives classified intelligence briefings during naval service.",
+      "category": "Education",
+      "emotional_impact": 4,
+      "significance": 6,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1993",
+      "title": "First Assignment",
+      "description": "Undertakes his first significant intelligence assignment.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1994",
+      "title": "Meeting Elizabeth Keen",
+      "description": "Raymond meets a young Elizabeth Keen, forming a profound connection.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1994",
+      "title": "First Meeting Liz",
+      "description": "First encounters a young Elizabeth Keen.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1995",
+      "title": "Naval Intelligence Career",
+      "description": "Raymond excels in naval intelligence, gaining critical skills and contacts.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1995",
+      "title": "Fatherhood",
+      "description": "Becomes a father to Agnes, though his identity is hidden.",
+      "category": "Family",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1995",
+      "title": "Becoming a Father",
+      "description": "Becomes the father of Agnes, a secret he guards.",
+      "category": "Family",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1996",
+      "title": "First Major Betrayal",
+      "description": "Experiences a significant betrayal that shapes his worldview.",
+      "category": "Personal",
+      "emotional_impact": -7,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1997",
+      "title": "Deep Cover Operations",
+      "description": "Engages in deep cover operations, honing his deception skills.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1998",
+      "title": "Betrayal and Defection",
+      "description": "Raymond is betrayed, forcing him to go rogue and become an informant.",
+      "category": "Transformation",
+      "emotional_impact": -9,
+      "significance": 10,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1998",
+      "title": "Going Underground",
+      "description": "Disappears from public life, becoming a ghost.",
+      "category": "Transformation",
+      "emotional_impact": -7,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1998",
+      "title": "Going Rogue",
+      "description": "Betrayed, he disappears and becomes a fugitive.",
+      "category": "Transformation",
+      "emotional_impact": -8,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "1999",
+      "title": "Building the Network",
+      "description": "Begins recruiting key operatives for his future network.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2000",
+      "title": "Emergence as 'Reddington'",
+      "description": "Raymond fully embraces his new identity as the elusive 'Reddington'.",
+      "category": "Transformation",
+      "emotional_impact": 5,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2000",
+      "title": "Establishing Contacts",
+      "description": "Builds a network of informants and allies.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2001",
+      "title": "Building the Network",
+      "description": "Reddington begins building his vast criminal empire and informant network.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2001",
+      "title": "Building Empire",
+      "description": "Starts constructing his vast criminal network.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2002",
+      "title": "Establishing Base",
+      "description": "Sets up his initial operational base and resources.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2003",
+      "title": "The Fulcrum's Origin",
+      "description": "Learns about the origins and significance of the Fulcrum.",
+      "category": "Adventure",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2004",
+      "title": "The Fulcrum",
+      "description": "Becomes involved with the mysterious Fulcrum.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2005",
+      "title": "First Major Heist",
+      "description": "Orchestrates a daring heist, solidifying his reputation in the underworld.",
+      "category": "Achievement",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2006",
+      "title": "The Concierge of Crime",
+      "description": "Earns the moniker 'Concierge of Crime' for his services.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2006",
+      "title": "The Fulcrum's Secret",
+      "description": "Uncovers more about the Fulcrum's true purpose.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2007",
+      "title": "Strategic Acquisitions",
+      "description": "Acquires critical assets and information for future use.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2008",
+      "title": "Protecting Liz's Identity",
+      "description": "Secretly intervenes to protect Elizabeth Keen from unseen threats.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2010",
+      "title": "Acquiring Key Assets",
+      "description": "Acquires crucial intelligence and resources for future plans.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2010",
+      "title": "Katarina's Shadow",
+      "description": "Katarina Rostova's influence continues to shape his actions.",
+      "category": "Family",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2011",
+      "title": "Liz's Early Life",
+      "description": "Monitors Elizabeth Keen's life from afar.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2012",
+      "title": "The Fulcrum Gambit",
+      "description": "Begins manipulating events related to the mysterious 'Fulcrum'.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2012",
+      "title": "Liz's Vulnerability",
+      "description": "Identifies a critical vulnerability in Liz's life.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist Narrative"
+    },
+    {
+      "date": "2013",
+      "title": "Surrender to FBI",
+      "description": "Reddington surrenders to the FBI, offering a deal to catch criminals.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2013",
+      "title": "The Deal",
+      "description": "Offers a deal to the FBI: help catch criminals for immunity.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2013",
+      "title": "The Surrender",
+      "description": "Voluntarily surrenders to the FBI.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2013",
+      "title": "The Partnership",
+      "description": "Forms an unusual alliance with Agent Elizabeth Keen.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2013",
+      "title": "The FBI's Target",
+      "description": "Becomes the FBI's most wanted fugitive.",
+      "category": "Career",
+      "emotional_impact": -5,
+      "significance": 8,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2013",
+      "title": "The Surrender Gambit",
+      "description": "Surrenders to the FBI as part of a larger plan.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2013",
+      "title": "The Surrender",
+      "description": "Voluntarily surrenders to the FBI.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2013-11-11",
+      "title": "Meeting Agent Keen",
+      "description": "Reddington demands to work exclusively with rookie FBI profiler Elizabeth Keen.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2013-11-11",
+      "title": "The Blacklist Begins",
+      "description": "Reddington starts providing the FBI with a list of dangerous criminals.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 10,
+      "source": "The Blacklist Pilot"
+    },
+    {
+      "date": "2014",
+      "title": "The Stewmaker",
+      "description": "Reddington helps capture the Stewmaker, a dangerous serial killer.",
+      "category": "Achievement",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S1E3"
+    },
+    {
+      "date": "2014",
+      "title": "The Director's Gambit",
+      "description": "Reddington clashes with 'The Director' of the Cabal.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S1"
+    },
+    {
+      "date": "2014",
+      "title": "Berlin's Revenge",
+      "description": "Reddington confronts Berlin, a former associate seeking vengeance.",
+      "category": "Adventure",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "The Blacklist S1 Finale"
+    },
+    {
+      "date": "2014",
+      "title": "The FBI Partnership",
+      "description": "Forms a complex, often adversarial, partnership with the FBI.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Blacklist S1"
+    },
+    {
+      "date": "2014",
+      "title": "Protecting Liz",
+      "description": "Constantly works to protect Elizabeth Keen from various threats.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S1"
+    },
+    {
+      "date": "2014",
+      "title": "The Blacklister",
+      "description": "Begins providing the FBI with a list of dangerous criminals.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 10,
+      "source": "The Blacklist S1"
+    },
+    {
+      "date": "2014",
+      "title": "The Stewmaker Case",
+      "description": "Helps capture the notorious Stewmaker.",
+      "category": "Achievement",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S1E3"
+    },
+    {
+      "date": "2014",
+      "title": "The Djinn",
+      "description": "Helps capture 'The Djinn', a master of disguise.",
+      "category": "Achievement",
+      "emotional_impact": 4,
+      "significance": 6,
+      "source": "The Blacklist S1E10"
+    },
+    {
+      "date": "2014",
+      "title": "The Director's Game",
+      "description": "Engages in a complex game of cat and mouse with 'The Director'.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S1"
+    },
+    {
+      "date": "2014",
+      "title": "The FBI Partnership",
+      "description": "Forms a complex, symbiotic relationship with the FBI.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Blacklist S1"
+    },
+    {
+      "date": "2014",
+      "title": "The Director's Influence",
+      "description": "Navigates the dangerous influence of 'The Director'.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S1"
+    },
+    {
+      "date": "2015",
+      "title": "Tom Keen's True Nature",
+      "description": "Reddington reveals Tom Keen's hidden identity and dangerous agenda.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 9,
+      "source": "The Blacklist S2"
+    },
+    {
+      "date": "2015",
+      "title": "The Cabal's Rise",
+      "description": "Reddington works to dismantle the powerful and shadowy Cabal.",
+      "category": "Adventure",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S2"
+    },
+    {
+      "date": "2015",
+      "title": "Liz's Amnesia",
+      "description": "Reddington orchestrates Liz's amnesia to protect her from the Cabal.",
+      "category": "Personal",
+      "emotional_impact": -7,
+      "significance": 9,
+      "source": "The Blacklist S2 Finale"
+    },
+    {
+      "date": "2015",
+      "title": "The Mole Hunt",
+      "description": "Investigates a mole within the FBI and the Cabal's influence.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S2"
+    },
+    {
+      "date": "2015",
+      "title": "The Cyprus Incident",
+      "description": "Navigates a dangerous situation involving Russian intelligence.",
+      "category": "Adventure",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S2"
+    },
+    {
+      "date": "2015",
+      "title": "Tom Keen's Secret",
+      "description": "Reveals Tom Keen's true, dangerous identity.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 9,
+      "source": "The Blacklist S2"
+    },
+    {
+      "date": "2015",
+      "title": "The Cabal",
+      "description": "Works to dismantle the powerful Cabal organization.",
+      "category": "Adventure",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S2"
+    },
+    {
+      "date": "2015",
+      "title": "The Director's Downfall",
+      "description": "Contributes to the downfall of 'The Director'.",
+      "category": "Achievement",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S2"
+    },
+    {
+      "date": "2015",
+      "title": "Liz's Amnesia Plan",
+      "description": "Executes a plan to give Liz amnesia for her safety.",
+      "category": "Personal",
+      "emotional_impact": -7,
+      "significance": 9,
+      "source": "The Blacklist S2 Finale"
+    },
+    {
+      "date": "2015",
+      "title": "The Cabal's Threat",
+      "description": "Faces the escalating threat of the Cabal.",
+      "category": "Adventure",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S2"
+    },
+    {
+      "date": "2015",
+      "title": "Liz's Amnesia",
+      "description": "Executes the plan for Elizabeth Keen's amnesia.",
+      "category": "Personal",
+      "emotional_impact": -7,
+      "significance": 9,
+      "source": "The Blacklist S2 Finale"
+    },
+    {
+      "date": "2016",
+      "title": "The Russian Connection",
+      "description": "Reddington's past in Russia resurfaces, creating new threats.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Blacklist S3"
+    },
+    {
+      "date": "2016",
+      "title": "Liz's 'Death'",
+      "description": "Reddington fakes Elizabeth Keen's death to protect her.",
+      "category": "Personal",
+      "emotional_impact": -8,
+      "significance": 10,
+      "source": "The Blacklist S3 Finale"
+    },
+    {
+      "date": "2016",
+      "title": "Liz's Re-emergence",
+      "description": "Facilitates Elizabeth Keen's return to the world.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S3"
+    },
+    {
+      "date": "2016",
+      "title": "The Russian Dossier",
+      "description": "Uncovers critical information about his own past.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S3"
+    },
+    {
+      "date": "2016",
+      "title": "Liz's Fake Death",
+      "description": "Orchestrates Elizabeth Keen's staged death.",
+      "category": "Personal",
+      "emotional_impact": -8,
+      "significance": 10,
+      "source": "The Blacklist S2 Finale"
+    },
+    {
+      "date": "2016",
+      "title": "The Russian Past",
+      "description": "His past in Russia resurfaces, creating new dangers.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Blacklist S3"
+    },
+    {
+      "date": "2016",
+      "title": "Liz's Resurrection",
+      "description": "Works to bring Elizabeth Keen back from the dead.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S3 Finale"
+    },
+    {
+      "date": "2016",
+      "title": "Russian Secrets",
+      "description": "Uncovers dangerous secrets from his Russian past.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "The Blacklist S3"
+    },
+    {
+      "date": "2017",
+      "title": "Liz's Return",
+      "description": "Elizabeth Keen resurfaces, now working with Reddington.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S4"
+    },
+    {
+      "date": "2017",
+      "title": "The Chinese Embassy",
+      "description": "Reddington orchestrates a daring infiltration of the Chinese embassy.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "The Blacklist S4E1"
+    },
+    {
+      "date": "2017",
+      "title": "The Death of Mr. Kaplan",
+      "description": "Reddington is forced to confront and eliminate Mr. Kaplan.",
+      "category": "Adventure",
+      "emotional_impact": -6,
+      "significance": 8,
+      "source": "The Blacklist S4 Finale"
+    },
+    {
+      "date": "2017",
+      "title": "The Missing Mother",
+      "description": "Intensifies his search for his mother, Katarina Rostova.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S4"
+    },
+    {
+      "date": "2017",
+      "title": "The Architect",
+      "description": "Deals with 'The Architect', a master planner of chaos.",
+      "category": "Adventure",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S4E15"
+    },
+    {
+      "date": "2017",
+      "title": "Liz's Return",
+      "description": "Facilitates Liz's reappearance and reunion.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S3"
+    },
+    {
+      "date": "2017",
+      "title": "Mr. Kaplan's Fate",
+      "description": "Confronts and eliminates his loyal cleaner, Mr. Kaplan.",
+      "category": "Adventure",
+      "emotional_impact": -6,
+      "significance": 8,
+      "source": "The Blacklist S4 Finale"
+    },
+    {
+      "date": "2017",
+      "title": "The Search Intensifies",
+      "description": "His search for Katarina Rostova becomes more urgent.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S4"
+    },
+    {
+      "date": "2017",
+      "title": "The Architect's Plot",
+      "description": "Thwarts 'The Architect's' plan for global chaos.",
+      "category": "Adventure",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S4E15"
+    },
+    {
+      "date": "2017",
+      "title": "Katarina's Search",
+      "description": "Intensifies his search for his mother, Katarina Rostova.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S4"
+    },
+    {
+      "date": "2017",
+      "title": "Mr. Kaplan's End",
+      "description": "Confronts and eliminates Mr. Kaplan.",
+      "category": "Adventure",
+      "emotional_impact": -6,
+      "significance": 8,
+      "source": "The Blacklist S4 Finale"
+    },
+    {
+      "date": "2018",
+      "title": "The Search for Katarina",
+      "description": "Reddington intensifies his search for his mother, Katarina Rostova.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S5"
+    },
+    {
+      "date": "2018",
+      "title": "The Bone Collector",
+      "description": "Reddington helps track down the elusive 'Bone Collector'.",
+      "category": "Achievement",
+      "emotional_impact": 4,
+      "significance": 6,
+      "source": "The Blacklist S5E10"
+    },
+    {
+      "date": "2018",
+      "title": "The Fire",
+      "description": "Reddington's apartment is destroyed in a fire, losing valuable items.",
+      "category": "Personal",
+      "emotional_impact": -5,
+      "significance": 7,
+      "source": "The Blacklist S5 Finale"
+    },
+    {
+      "date": "2018",
+      "title": "The Bones",
+      "description": "Recovers bones that hold a significant secret about his identity.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S5"
+    },
+    {
+      "date": "2018",
+      "title": "The Framing",
+      "description": "Is framed for murder, forcing him to go on the run.",
+      "category": "Adventure",
+      "emotional_impact": -7,
+      "significance": 8,
+      "source": "The Blacklist S5 Finale"
+    },
+    {
+      "date": "2018",
+      "title": "Mother Hunt",
+      "description": "Searches for his mother, Katarina Rostova.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S5"
+    },
+    {
+      "date": "2018",
+      "title": "Framed",
+      "description": "Is framed for murder, becoming a fugitive.",
+      "category": "Adventure",
+      "emotional_impact": -7,
+      "significance": 8,
+      "source": "The Blacklist S5 Finale"
+    },
+    {
+      "date": "2018",
+      "title": "The Bones Discovery",
+      "description": "Uncovers bones crucial to understanding his identity.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S5"
+    },
+    {
+      "date": "2018",
+      "title": "Framed for Murder",
+      "description": "Is framed for murder, forcing him to flee.",
+      "category": "Adventure",
+      "emotional_impact": -7,
+      "significance": 8,
+      "source": "The Blacklist S5 Finale"
+    },
+    {
+      "date": "2018",
+      "title": "The Bones' Secret",
+      "description": "The bones reveal a crucial truth about his identity.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S5"
+    },
+    {
+      "date": "2019",
+      "title": "The Real Reddington",
+      "description": "The truth about the 'real' Raymond Reddington's identity emerges.",
+      "category": "Transformation",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "The Imposter Revealed",
+      "description": "Reddington is revealed to be an imposter, not the original Reddington.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "Confrontation with Dom",
+      "description": "Reddington confronts his father-in-law, Dom, about his past.",
+      "category": "Family",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "The Battle for Liz",
+      "description": "Reddington and Katarina Rostova vie for Elizabeth Keen's loyalty.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S6 Finale"
+    },
+    {
+      "date": "2019",
+      "title": "The Imposter",
+      "description": "The truth about his identity as an imposter is revealed.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "The Reckoning",
+      "description": "Faces consequences for his actions and deception.",
+      "category": "Personal",
+      "emotional_impact": -6,
+      "significance": 8,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "The War for Liz",
+      "description": "Engages in a conflict with Katarina Rostova for Liz's allegiance.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S6 Finale"
+    },
+    {
+      "date": "2019",
+      "title": "The Imposter Truth",
+      "description": "His true identity as an imposter is revealed.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "Dom's Confession",
+      "description": "Confronts Dom, learning more about his past.",
+      "category": "Family",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "The Imposter Revealed",
+      "description": "His true identity as an imposter is confirmed.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "Dom's Revelation",
+      "description": "Learns critical truths from Dom about his past.",
+      "category": "Family",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "War for Liz",
+      "description": "Engages in a conflict with Katarina over Liz's loyalty.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S6 Finale"
+    },
+    {
+      "date": "2019",
+      "title": "The Imposter Truth",
+      "description": "His true identity as an imposter is revealed.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2019",
+      "title": "Dom's Confession",
+      "description": "Learns critical truths from Dom about his past.",
+      "category": "Family",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S6"
+    },
+    {
+      "date": "2020",
+      "title": "The Pandemic Interruption",
+      "description": "The COVID-19 pandemic impacts the Blacklist's production schedule.",
+      "category": "Health",
+      "emotional_impact": -2,
+      "significance": 5,
+      "source": "Real World Event"
+    },
+    {
+      "date": "2020",
+      "title": "Liz's Betrayal",
+      "description": "Elizabeth Keen betrays Reddington, siding with her mother.",
+      "category": "Personal",
+      "emotional_impact": -9,
+      "significance": 10,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "Katarina's True Motives",
+      "description": "Katarina Rostova's dangerous plan to destroy Reddington is revealed.",
+      "category": "Family",
+      "emotional_impact": -8,
+      "significance": 9,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "The Sacrifice",
+      "description": "Reddington makes a significant sacrifice to protect Liz.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "The Blacklist S7 Finale"
+    },
+    {
+      "date": "2020",
+      "title": "The Pandemic",
+      "description": "Adapts to the challenges of the global pandemic.",
+      "category": "Health",
+      "emotional_impact": -3,
+      "significance": 5,
+      "source": "Real World Event"
+    },
+    {
+      "date": "2020",
+      "title": "Liz's Choice",
+      "description": "Elizabeth Keen chooses her mother over Reddington.",
+      "category": "Personal",
+      "emotional_impact": -9,
+      "significance": 10,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "Katarina's Endgame",
+      "description": "Katarina Rostova's destructive plan unfolds.",
+      "category": "Family",
+      "emotional_impact": -8,
+      "significance": 9,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "Liz's Allegiance",
+      "description": "Liz sides with Katarina against Reddington.",
+      "category": "Personal",
+      "emotional_impact": -9,
+      "significance": 10,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "Katarina's Plan",
+      "description": "Katarina Rostova's destructive plot unfolds.",
+      "category": "Family",
+      "emotional_impact": -8,
+      "significance": 9,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "Pandemic Impact",
+      "description": "Adapts operations during the global COVID-19 pandemic.",
+      "category": "Health",
+      "emotional_impact": -3,
+      "significance": 5,
+      "source": "Real World Event"
+    },
+    {
+      "date": "2020",
+      "title": "Liz's Betrayal",
+      "description": "Elizabeth Keen chooses her mother, betraying Reddington.",
+      "category": "Personal",
+      "emotional_impact": -9,
+      "significance": 10,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "Katarina's Endgame",
+      "description": "Katarina Rostova's destructive plan is put into motion.",
+      "category": "Family",
+      "emotional_impact": -8,
+      "significance": 9,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "Liz's Choice",
+      "description": "Liz sides with Katarina against Reddington.",
+      "category": "Personal",
+      "emotional_impact": -9,
+      "significance": 10,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2020",
+      "title": "Katarina's Plan",
+      "description": "Katarina Rostova's destructive plot unfolds.",
+      "category": "Family",
+      "emotional_impact": -8,
+      "significance": 9,
+      "source": "The Blacklist S7"
+    },
+    {
+      "date": "2021",
+      "title": "The Search for Dembe",
+      "description": "Reddington searches for Dembe after he joins the FBI.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "The Truth About Liz",
+      "description": "Reddington reveals the full truth about Elizabeth Keen's destiny.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "The Death of Elizabeth Keen",
+      "description": "Elizabeth Keen is killed, a devastating blow to Reddington.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "Reddington's Grief",
+      "description": "Reddington grapples with immense grief and loss after Liz's death.",
+      "category": "Health",
+      "emotional_impact": -9,
+      "significance": 9,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "Dembe's New Role",
+      "description": "Dembe becomes an FBI agent, creating distance.",
+      "category": "Personal",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "The Truth Revealed",
+      "description": "Reddington reveals the full, painful truth about Liz's destiny.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "Liz's Final Moments",
+      "description": "Witnesses and is indirectly responsible for Liz's death.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "The Aftermath",
+      "description": "Devastated by Liz's death, Reddington enters a period of mourning.",
+      "category": "Health",
+      "emotional_impact": -9,
+      "significance": 9,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "Dembe's FBI Role",
+      "description": "Dembe becomes an FBI agent, creating a rift.",
+      "category": "Personal",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "Liz's Destiny",
+      "description": "Reveals the full, tragic truth of Liz's fate.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "Liz's Death",
+      "description": "Elizabeth Keen dies, a devastating loss.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "Grief and Mourning",
+      "description": "Endures profound grief and emotional turmoil.",
+      "category": "Health",
+      "emotional_impact": -9,
+      "significance": 9,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "Dembe's FBI Career",
+      "description": "Dembe Zuma joins the FBI, creating a complex dynamic.",
+      "category": "Personal",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "Liz's Tragic Fate",
+      "description": "Reveals the full, devastating truth about Liz's destiny.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "Liz's Death",
+      "description": "Elizabeth Keen is killed, a profound loss.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "Grief and Isolation",
+      "description": "Experiences deep grief and emotional isolation.",
+      "category": "Health",
+      "emotional_impact": -9,
+      "significance": 9,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "Dembe's FBI Role",
+      "description": "Dembe becomes an FBI agent, creating a rift.",
+      "category": "Personal",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "Liz's Tragic Fate",
+      "description": "Reveals the full, devastating truth about Liz's destiny.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S8"
+    },
+    {
+      "date": "2021",
+      "title": "Liz's Death",
+      "description": "Elizabeth Keen is killed, a profound loss.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2021",
+      "title": "Grief and Isolation",
+      "description": "Experiences deep grief and emotional isolation.",
+      "category": "Health",
+      "emotional_impact": -9,
+      "significance": 9,
+      "source": "The Blacklist S8 Finale"
+    },
+    {
+      "date": "2022",
+      "title": "New Purpose",
+      "description": "Reddington finds a new purpose in continuing Liz's legacy.",
+      "category": "Transformation",
+      "emotional_impact": 4,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Rebuilding Trust",
+      "description": "Reddington works to rebuild trust with his former Task Force.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "The Hunt for Vandyke",
+      "description": "Reddington pursues Vandyke, the killer of Elizabeth Keen.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "The Truth About Ilya",
+      "description": "The complex truth about Ilya Koslov's role is revealed.",
+      "category": "Family",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "A New Path",
+      "description": "Seeks a new purpose, honoring Liz's memory.",
+      "category": "Transformation",
+      "emotional_impact": 4,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Reconciliation",
+      "description": "Attempts to mend fences with the fractured Task Force.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Justice for Liz",
+      "description": "Pursues Vandyke, the man responsible for Liz's death.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "The Ilya Revelation",
+      "description": "Learns the full, complex truth about Ilya Koslov's identity.",
+      "category": "Family",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "New Purpose",
+      "description": "Finds a new direction, honoring Liz's memory.",
+      "category": "Transformation",
+      "emotional_impact": 4,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Rebuilding Bridges",
+      "description": "Attempts to reconcile with the Task Force.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Vandyke's Pursuit",
+      "description": "Hunts Vandyke, the killer of Elizabeth Keen.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "New Mission",
+      "description": "Finds a new purpose in honoring Liz's legacy.",
+      "category": "Transformation",
+      "emotional_impact": 4,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Reconciliation Efforts",
+      "description": "Attempts to mend relationships with the Task Force.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Vandyke's Pursuit",
+      "description": "Hunts Vandyke, the killer responsible for Liz's death.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Ilya Koslov's Truth",
+      "description": "Uncovers the complex truth about Ilya Koslov's role.",
+      "category": "Family",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "New Mission",
+      "description": "Finds a new purpose in honoring Liz's legacy.",
+      "category": "Transformation",
+      "emotional_impact": 4,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Reconciliation Efforts",
+      "description": "Attempts to mend relationships with the Task Force.",
+      "category": "Personal",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2022",
+      "title": "Vandyke's Pursuit",
+      "description": "Hunts Vandyke, the killer responsible for Liz's death.",
+      "category": "Adventure",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "The Blacklist S9"
+    },
+    {
+      "date": "2023",
+      "title": "The Task Force Disbands",
+      "description": "The FBI disbands the Reddington Task Force.",
+      "category": "Career",
+      "emotional_impact": -4,
+      "significance": 7,
+      "source": "The Blacklist S9 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "Reddington's Retirement?",
+      "description": "Reddington contemplates retirement from his criminal life.",
+      "category": "Personal",
+      "emotional_impact": 3,
+      "significance": 6,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "The Final Blacklist",
+      "description": "Reddington compiles his final list of criminals.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 9,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "Confrontation with Wujing",
+      "description": "Reddington faces his ultimate adversary, Wujing.",
+      "category": "Adventure",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "The Ultimate Sacrifice",
+      "description": "Reddington makes the ultimate sacrifice to protect his legacy.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "Task Force Dissolved",
+      "description": "The FBI officially disbands the Reddington Task Force.",
+      "category": "Career",
+      "emotional_impact": -4,
+      "significance": 7,
+      "source": "The Blacklist S9 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "Final List",
+      "description": "Compiles his ultimate Blacklist, a culmination of his work.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 9,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "The Ultimate Enemy",
+      "description": "Faces Wujing, a former Blacklister seeking revenge.",
+      "category": "Adventure",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "The Final Act",
+      "description": "Orchestrates his own demise to protect his legacy.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "Task Force Ends",
+      "description": "The FBI disbands the Reddington Task Force.",
+      "category": "Career",
+      "emotional_impact": -4,
+      "significance": 7,
+      "source": "The Blacklist S9 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "Final Blacklist",
+      "description": "Compiles his ultimate list of criminals.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 9,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "Wujing Confrontation",
+      "description": "Faces Wujing, his final and most dangerous adversary.",
+      "category": "Adventure",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "The Final Sacrifice",
+      "description": "Makes the ultimate sacrifice to protect his legacy.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "Task Force Disbanded",
+      "description": "The FBI officially dissolves the Reddington Task Force.",
+      "category": "Career",
+      "emotional_impact": -4,
+      "significance": 7,
+      "source": "The Blacklist S9 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "The Final Blacklist",
+      "description": "Compiles his ultimate list of criminals.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 9,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "Wujing Confrontation",
+      "description": "Faces Wujing, his final and most dangerous adversary.",
+      "category": "Adventure",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "The Ultimate Sacrifice",
+      "description": "Makes the ultimate sacrifice to protect his legacy.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "Task Force Disbanded",
+      "description": "The FBI officially dissolves the Reddington Task Force.",
+      "category": "Career",
+      "emotional_impact": -4,
+      "significance": 7,
+      "source": "The Blacklist S9 Finale"
+    },
+    {
+      "date": "2023",
+      "title": "The Final Blacklist",
+      "description": "Compiles his ultimate list of criminals.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 9,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "Wujing Confrontation",
+      "description": "Faces Wujing, his final and most dangerous adversary.",
+      "category": "Adventure",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "The Blacklist S10"
+    },
+    {
+      "date": "2023",
+      "title": "The Ultimate Sacrifice",
+      "description": "Makes the ultimate sacrifice to protect his legacy.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023-07-13",
+      "title": "Death of Raymond Reddington",
+      "description": "Raymond Reddington dies, his story coming to a definitive end.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023-07-13",
+      "title": "Reddington's End",
+      "description": "Raymond Reddington dies, his complex journey concluded.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023-07-13",
+      "title": "Reddington's Demise",
+      "description": "Raymond Reddington dies, his complex story concludes.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023-07-13",
+      "title": "Reddington's Demise",
+      "description": "Raymond Reddington dies, his complex story concludes.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023-07-13",
+      "title": "Reddington's Demise",
+      "description": "Raymond Reddington dies, his complex story concludes.",
+      "category": "Death",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "The Blacklist S10 Finale"
+    },
+    {
+      "date": "2023-07-13",
+      "title": "Reddington's Legacy",
+      "description": "His legacy as the Concierge of Crime concludes.",
+      "category": "Death",
+      "emotional_impact": -5,
+      "significance": 9,
+      "source": "The Blacklist S10 Finale"
+    }
+  ]
+}

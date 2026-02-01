@@ -12,6 +12,11 @@
       "name": "Howard Roark",
       "type": "fictional_person",
       "path": "profiles/howard-roark.json"
+    },
+    {
+      "name": "Raymond Reddington",
+      "type": "fictional_person",
+      "path": "profiles/raymond-reddington.json"
     }
   ]
 }
