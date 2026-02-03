@@ -1,0 +1,473 @@
+{
+  "metadata": {
+    "entity_name": "Rachel Green",
+    "entity_type": "fictional_person",
+    "model_id": "x-ai/grok-4.1-fast",
+    "generated_at": "2026-02-03T17:14:18.161473",
+    "quality_score": 9.1844,
+    "cost_usd": "0.000010343",
+    "response_time_seconds": 183.02578163146973,
+    "event_count": 50,
+    "prompt_tokens": 8361,
+    "completion_tokens": 17342,
+    "total_tokens": 25703,
+    "status": "test_result",
+    "entity_description": "Rachel Green is a central character in the TV sitcom Friends, a fashion enthusiast.",
+    "entity_source": "Friends (TV series)",
+    "birth_year": null,
+    "death_year": null,
+    "category": "TV Characters"
+  },
+  "events": [
+    {
+      "date": "1994-09-22",
+      "title": "Leaves Barry at the altar",
+      "description": "Flees wedding to Barry Farber, runs to Central Perk in wedding dress, starts new life.",
+      "category": "Transformation",
+      "emotional_impact": 5,
+      "significance": 10,
+      "source": "The Pilot"
+    },
+    {
+      "date": "1994-09-22",
+      "title": "Starts at Central Perk",
+      "description": "Takes first job as waitress at Central Perk coffeehouse, gains independence.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 7,
+      "source": "The Pilot"
+    },
+    {
+      "date": "1994-09-29",
+      "title": "Cuts father's credit cards",
+      "description": "Dramatically slices up daddy's AmEx cards, rejects spoiled lifestyle.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 6,
+      "source": "TOW George Stephanopoulos"
+    },
+    {
+      "date": "1994-12-29",
+      "title": "First kiss with Ross",
+      "description": "Shares passionate New Year's kiss with Ross during NYC blackout.",
+      "category": "Personal",
+      "emotional_impact": 10,
+      "significance": 9,
+      "source": "TOW the Monkey"
+    },
+    {
+      "date": "1995-02-23",
+      "title": "Parents announce separation",
+      "description": "At fake 30th party, learns parents Dr. and Sandra Green are divorcing.",
+      "category": "Family",
+      "emotional_impact": -4,
+      "significance": 5,
+      "source": "TOW the Fake Party"
+    },
+    {
+      "date": "1995-09-28",
+      "title": "Ross confesses his love",
+      "description": "Ross blurts 'I love you'; Rachel needs time, straining their friendship.",
+      "category": "Personal",
+      "emotional_impact": 4,
+      "significance": 8,
+      "source": "TOW the Breast Milk"
+    },
+    {
+      "date": "1997-02-13",
+      "title": "Declares 'on a break'",
+      "description": "After fight, tells Ross they're 'on a break,' sleeps with Mark.",
+      "category": "Personal",
+      "emotional_impact": -3,
+      "significance": 9,
+      "source": "TOW Ross & Rachel Take a Break"
+    },
+    {
+      "date": "1997-02-20",
+      "title": "Discovers Ross's infidelity",
+      "description": "Learns Ross slept with Chloe; permanently breaks up with him.",
+      "category": "Personal",
+      "emotional_impact": -10,
+      "significance": 10,
+      "source": "TOW the Morning After"
+    },
+    {
+      "date": "1997-05-15",
+      "title": "Lands Bloomingdale's job",
+      "description": "Quits Central Perk for assistant buyer role at Bloomingdale's.",
+      "category": "Career",
+      "emotional_impact": 10,
+      "significance": 8,
+      "source": "TOW the Ultimate Fighting Champ"
+    },
+    {
+      "date": "1998-05-07",
+      "title": "Ross says her name at altar",
+      "description": "Ross says 'Rachel' instead of 'Emily' during their wedding vows.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "TOW the Wedding, Part 2"
+    },
+    {
+      "date": "1998-09-24",
+      "title": "Flies to stop Ross's wedding",
+      "description": "Rushes to London to confess feelings, but arrives too late.",
+      "category": "Adventure",
+      "emotional_impact": 3,
+      "significance": 8,
+      "source": "TOW After Ross Says Rachel"
+    },
+    {
+      "date": "1999-02-11",
+      "title": "Turns 30 years old",
+      "description": "Celebrates milestone birthday, laments lack of achievements.",
+      "category": "Achievement",
+      "emotional_impact": 2,
+      "significance": 6,
+      "source": "TOWTAT All Turn Thirty"
+    },
+    {
+      "date": "1999-04-22",
+      "title": "Drunken Vegas marriage to Ross",
+      "description": "Wakes up married to Ross after wild Las Vegas night.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "TOW in Vegas, Part 2"
+    },
+    {
+      "date": "2001-04-19",
+      "title": "Meets spoiled sister Jill",
+      "description": "Younger sister Jill Green visits, mirrors past self; offers advice.",
+      "category": "Family",
+      "emotional_impact": 3,
+      "significance": 4,
+      "source": "TOW Rachel's Sister"
+    },
+    {
+      "date": "2001-10-04",
+      "title": "Discovers pregnancy",
+      "description": "Learns she's pregnant with Ross's baby from one-night stand.",
+      "category": "Health",
+      "emotional_impact": 7,
+      "significance": 10,
+      "source": "TOW Monica Sings"
+    },
+    {
+      "date": "2001-10-11",
+      "title": "Tells friends about baby",
+      "description": "Reveals pregnancy to group; Ross thrilled, others supportive.",
+      "category": "Family",
+      "emotional_impact": 9,
+      "significance": 8,
+      "source": "TOW the Halloween Party"
+    },
+    {
+      "date": "2002-02-28",
+      "title": "Ralph Lauren promotion",
+      "description": "Secures executive buyer position at Ralph Lauren fashion house.",
+      "category": "Career",
+      "emotional_impact": 9,
+      "significance": 7,
+      "source": "TOW the Baby Shower"
+    },
+    {
+      "date": "2002-05-16",
+      "title": "Gives birth to Emma",
+      "description": "Delivers daughter Emma Geller-Green after long labor at hospital.",
+      "category": "Family",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "TOW Rachel Has a Baby"
+    },
+    {
+      "date": "2002-10-03",
+      "title": "Sister Amy insults Emma",
+      "description": "Older sister Amy Green visits, criticizes baby Emma's name.",
+      "category": "Family",
+      "emotional_impact": -5,
+      "significance": 3,
+      "source": "TOW Emma Cries"
+    },
+    {
+      "date": "2003-05-15",
+      "title": "Offered Paris job at Gucci",
+      "description": "Receives dream job offer as buyer for Gucci in Paris.",
+      "category": "Career",
+      "emotional_impact": 9,
+      "significance": 8,
+      "source": "TOW the Ferry, Part 2"
+    },
+    {
+      "date": "2003-09-25",
+      "title": "Briefly dates Joey",
+      "description": "Tries romantic relationship with Joey after years of friendship.",
+      "category": "Personal",
+      "emotional_impact": 4,
+      "significance": 7,
+      "source": "TOW Ross is Fine"
+    },
+    {
+      "date": "2004-01-15",
+      "title": "Ends romance with Joey",
+      "description": "Realizes Joey friendship too valuable; they break up amicably.",
+      "category": "Personal",
+      "emotional_impact": -2,
+      "significance": 6,
+      "source": "TOW the Hockey Night"
+    },
+    {
+      "date": "2004-05-06",
+      "title": "Reunites with Ross forever",
+      "description": "Chooses love over Paris job; declares 'I got off the plane' to Ross.",
+      "category": "Transformation",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "The Last One, Part 2"
+    },
+    {
+      "date": "2004-09-30",
+      "title": "Keeps Ralph Lauren job in NYC",
+      "description": "Negotiates to stay in New York instead of Paris transfer.",
+      "category": "Career",
+      "emotional_impact": 9,
+      "significance": 8,
+      "source": "The Last One"
+    },
+    {
+      "date": "2005-06-25",
+      "title": "Marries Ross Geller",
+      "description": "Weds Ross in beautiful NYC ceremony with friends and family.",
+      "category": "Family",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Canon implication"
+    },
+    {
+      "date": "2005-08-01",
+      "title": "Honeymoon in Aruba",
+      "description": "Romantic island getaway with Ross, deepens their bond.",
+      "category": "Adventure",
+      "emotional_impact": 9,
+      "significance": 6,
+      "source": "Canon implication"
+    },
+    {
+      "date": "2006-05-16",
+      "title": "Emma's 4th birthday party",
+      "description": "Hosts joyful celebration for daughter with core friend group.",
+      "category": "Family",
+      "emotional_impact": 8,
+      "significance": 4,
+      "source": "Post-series life"
+    },
+    {
+      "date": "2008-02-14",
+      "title": "Announces second pregnancy",
+      "description": "Shares joyful news of baby boy with Ross and friends.",
+      "category": "Health",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2008-10-15",
+      "title": "Birth of son Leo",
+      "description": "Delivers healthy son Leo Geller-Green, expands family.",
+      "category": "Family",
+      "emotional_impact": 10,
+      "significance": 9,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2012-09-05",
+      "title": "Emma starts kindergarten",
+      "description": "Emotional first day drop-off, milestone for young mom.",
+      "category": "Family",
+      "emotional_impact": 5,
+      "significance": 5,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2015-06-25",
+      "title": "10th anniversary trip",
+      "description": "Surprise Paris getaway with Ross, reignites romance.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 7,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2018-01-01",
+      "title": "Promoted to VP at Ralph Lauren",
+      "description": "Achieves executive role after years of dedication.",
+      "category": "Career",
+      "emotional_impact": 10,
+      "significance": 8,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2020-03-15",
+      "title": "Family endures COVID lockdown",
+      "description": "Adapts to homeschooling kids, remote work challenges.",
+      "category": "Transformation",
+      "emotional_impact": -4,
+      "significance": 7,
+      "source": "Global context"
+    },
+    {
+      "date": "2020-05-16",
+      "title": "Emma's 18th birthday",
+      "description": "Virtual party amid pandemic, proud mom moment.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 6,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2022-06-01",
+      "title": "Emma high school graduation",
+      "description": "Cheers daughter at ceremony, reflects on growth.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 7,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2023-09-01",
+      "title": "Founds Green Fashion Initiative",
+      "description": "Launches nonprofit for sustainable fashion mentoring.",
+      "category": "Foundation",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2024-12-31",
+      "title": "Celebrates 20 years with Ross",
+      "description": "Thriving family, career success, enduring love story.",
+      "category": "Personal",
+      "emotional_impact": 10,
+      "significance": 9,
+      "source": "Ongoing narrative"
+    },
+    {
+      "date": "2025-05-16",
+      "title": "Leo's high school graduation",
+      "description": "Proudly watches son Leo graduate, tearful family milestone.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 7,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2025-08-15",
+      "title": "Family safari adventure",
+      "description": "Thrilling African safari with Ross, Emma, Leo; bonds deepen.",
+      "category": "Adventure",
+      "emotional_impact": 8,
+      "significance": 6,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2026-02-11",
+      "title": "Celebrates 57th birthday",
+      "description": "Surprise party with friends; reflects on life's journey.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 5,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2027-03-01",
+      "title": "Publishes fashion memoir",
+      "description": "Releases 'From Altar to Buyer' bestseller, shares story.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 8,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2028-06-25",
+      "title": "20th wedding anniversary",
+      "description": "Renew vows in intimate ceremony with closest loved ones.",
+      "category": "Family",
+      "emotional_impact": 10,
+      "significance": 9,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2029-01-15",
+      "title": "Minor health scare resolved",
+      "description": "Overcomes brief illness; appreciates health and family.",
+      "category": "Health",
+      "emotional_impact": -3,
+      "significance": 6,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2029-09-01",
+      "title": "Emma's wedding day",
+      "description": "Walks daughter Emma down aisle; emotional mother-of-bride.",
+      "category": "Family",
+      "emotional_impact": 10,
+      "significance": 9,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2030-12-01",
+      "title": "Launches fashion podcast",
+      "description": "Hosts popular series on industry trends and life lessons.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 7,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2032-04-10",
+      "title": "Becomes grandmother",
+      "description": "Welcomes first grandchild from Emma; joyful new role.",
+      "category": "Family",
+      "emotional_impact": 10,
+      "significance": 8,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2035-07-01",
+      "title": "Receives fashion award",
+      "description": "Honored with Lifetime Achievement in sustainable fashion.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 9,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2038-02-11",
+      "title": "60th birthday celebration",
+      "description": "Grand party marks milestone; surrounded by family, friends.",
+      "category": "Personal",
+      "emotional_impact": 9,
+      "significance": 7,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2040-06-01",
+      "title": "Semi-retires from Ralph Lauren",
+      "description": "Steps to consultant role; mentors next generation.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "Fictional extension"
+    },
+    {
+      "date": "2045-12-31",
+      "title": "Reflects on 50 years post-wedding",
+      "description": "Legacy of love, career, family; thriving in golden years.",
+      "category": "Transformation",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Ongoing narrative"
+    }
+  ]
+}

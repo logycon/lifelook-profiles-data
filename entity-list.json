@@ -14,6 +14,11 @@
       "path": "profiles/howard-roark.json"
     },
     {
+      "name": "Rachel Green",
+      "type": "fictional_person",
+      "path": "profiles/rachel-green.json"
+    },
+    {
       "name": "Raymond Reddington",
       "type": "fictional_person",
       "path": "profiles/raymond-reddington.json"
@@ -22,6 +27,11 @@
       "name": "Survivor",
       "type": "real_event",
       "path": "profiles/survivor.json"
+    },
+    {
+      "name": "Trinity Rodman",
+      "type": "real_person",
+      "path": "profiles/trinity-rodman.json"
     }
   ]
 }

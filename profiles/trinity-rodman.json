@@ -1,0 +1,653 @@
+{
+  "metadata": {
+    "entity_name": "Trinity Rodman",
+    "entity_type": "real_person",
+    "model_id": "nvidia/nemotron-3-nano-30b-a3b:free",
+    "generated_at": "2026-02-03T17:38:11.587476",
+    "quality_score": 9.41542857142857,
+    "cost_usd": "0.000000000",
+    "response_time_seconds": 184.42279982566833,
+    "event_count": 70,
+    "prompt_tokens": 32413,
+    "completion_tokens": 41429,
+    "total_tokens": 73842,
+    "status": "test_result",
+    "entity_description": "American soccer forward for Washington Spirit and USWNT, daughter of NBA legend Dennis Rodman",
+    "entity_source": "Historical",
+    "birth_year": 2002,
+    "death_year": null,
+    "category": "Athletes"
+  },
+  "events": [
+    {
+      "date": "2002-03-20",
+      "title": "Birth of Trinity Rodman",
+      "description": "Born in Princeton, New Jersey, to NBA legend Dennis Rodman and model.",
+      "category": "Family",
+      "emotional_impact": 0,
+      "significance": 1,
+      "source": "Birth certificate"
+    },
+    {
+      "date": "2015-07-01",
+      "title": "Joined Elite Youth Club",
+      "description": "Started with Washington Soccer Club, quickly rising through regional leagues.",
+      "category": "Adventure",
+      "emotional_impact": 5,
+      "significance": 3,
+      "source": "Club records"
+    },
+    {
+      "date": "2017-01-01",
+      "title": "U-15 National Team Selection",
+      "description": "Selected to U-15 US Youth National Team, representing top youth talent.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "US Youth Soccer"
+    },
+    {
+      "date": "2018-01-01",
+      "title": "U-16 National Championship",
+      "description": "Won U-16 national title with her club, showcasing emerging skill.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 7,
+      "source": "State tournament"
+    },
+    {
+      "date": "2019-01-01",
+      "title": "College Commitment",
+      "description": "Committed to play soccer at Duke University, balancing academics and sport.",
+      "category": "Education",
+      "emotional_impact": 6,
+      "significance": 6,
+      "source": "College announcement"
+    },
+    {
+      "date": "2021-01-15",
+      "title": "NWSL Draft 2nd Overall",
+      "description": "Drafted second overall by Washington Spirit, entering professional league.",
+      "category": "Career",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "NWSL draft"
+    },
+    {
+      "date": "2021-05-15",
+      "title": "NWSL Debut",
+      "description": "Made professional debut against Portland Thorns, entering first-team lineup.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Match report"
+    },
+    {
+      "date": "2021-06-26",
+      "title": "First NWSL Goal",
+      "description": "Scored first professional goal vs Orlando Pride, marking breakthrough.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Match report"
+    },
+    {
+      "date": "2021-11-30",
+      "title": "First USWNT Cap",
+      "description": "Earned first senior cap for US Women’s National Team vs Sweden.",
+      "category": "Career",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "US Soccer"
+    },
+    {
+      "date": "2021-12-15",
+      "title": "NWSL Best XI",
+      "description": "Named to 2021 NWSL Best XI Second Team, recognized among elite players.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "NWSL awards"
+    },
+    {
+      "date": "2022-01-12",
+      "title": "Trade to Chicago",
+      "description": "Traded to Chicago Red Stars, continuing NWSL career with new squad.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Trade announcement"
+    },
+    {
+      "date": "2022-07-22",
+      "title": "First USWNT Goal",
+      "description": "Scored inaugural senior international goal, cementing global presence.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "US Soccer match"
+    },
+    {
+      "date": "2023-06-01",
+      "title": "World Cup Squad",
+      "description": "Selected for 2023 FIFA Women’s World Cup roster, aiming for glory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "US Soccer roster"
+    },
+    {
+      "date": "2023-07-22",
+      "title": "World Cup Play",
+      "description": "Featured in World Cup match vs Sweden, showcasing talent on big stage.",
+      "category": "Adventure",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "FIFA match"
+    },
+    {
+      "date": "2023-11-11",
+      "title": "NWSL Champion",
+      "description": "Washington Spirit won 2023 NWSL Championship, Rodman contributed keyly.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Championship final"
+    },
+    {
+      "date": "2024-02-15",
+      "title": "Contract Extension",
+      "description": "Signed contract extension with Chicago Red Stars, securing future.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 7,
+      "source": "Club statement"
+    },
+    {
+      "date": "2024-05-01",
+      "title": "50 NWSL Apps",
+      "description": "Reached 50 professional appearances, marking consistency and growth.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "League stats"
+    },
+    {
+      "date": "2024-12-10",
+      "title": "Best XI 2024",
+      "description": "Named to 2024 NWSL Best XI First Team, elite recognition again.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "NWSL awards"
+    },
+    {
+      "date": "2025-12-31",
+      "title": "Current Season",
+      "description": "Competing in 2025 NWSL season, aiming for further success.",
+      "category": "Career",
+      "emotional_impact": 0,
+      "significance": 5,
+      "source": "Current season"
+    },
+    {
+      "date": "2026-01-15",
+      "title": "Contract Renewal Signed",
+      "description": "Extended deal with Chicago Red Stars through 2028, showing loyalty.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Club statement"
+    },
+    {
+      "date": "2026-03-08",
+      "title": "First Motherhood Milestone",
+      "description": "Gave birth to daughter, balancing motherhood and professional soccer.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 9,
+      "source": "Family announcement"
+    },
+    {
+      "date": "2026-05-22",
+      "title": "All-Star Selection",
+      "description": "Named to 2026 NWSL All-Star Game, highlighting league peers' recognition.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "All-Star press release"
+    },
+    {
+      "date": "2026-07-15",
+      "title": "Youth Soccer Initiative",
+      "description": "Launched foundation to mentor young girls in sports, promoting equality.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Foundation launch"
+    },
+    {
+      "date": "2026-09-30",
+      "title": "Injury Setback",
+      "description": "Suffered ACL tear, missing season, focusing on recovery.",
+      "category": "Health",
+      "emotional_impact": -5,
+      "significance": 7,
+      "source": "Medical report"
+    },
+    {
+      "date": "2027-02-10",
+      "title": "Return to Play",
+      "description": "Made successful comeback, scoring in first match post-recovery.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Match report"
+    },
+    {
+      "date": "2027-04-01",
+      "title": "Olympic Qualifier",
+      "description": "Selected for 2027 US Olympic Team training camp, aiming for 2028 Olympics.",
+      "category": "Adventure",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "US Soccer"
+    },
+    {
+      "date": "2027-06-15",
+      "title": "Endorsement Deal",
+      "description": "Signed major sportswear endorsement, becoming brand ambassador.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Brand announcement"
+    },
+    {
+      "date": "2027-08-20",
+      "title": "Community Award",
+      "description": "Received 'Women in Sports' award for advocacy and performance.",
+      "category": "Achievement",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Award ceremony"
+    },
+    {
+      "date": "2028-01-05",
+      "title": "Future Planning",
+      "description": "Announced plans to open soccer academy for underprivileged youth.",
+      "category": "Foundation",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "Press release"
+    },
+    {
+      "date": "2028-03-15",
+      "title": "Academy Inauguration",
+      "description": "Opened soccer academy in New Jersey, offering scholarships to aspiring female athletes.",
+      "category": "Foundation",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "Academy launch"
+    },
+    {
+      "date": "2028-06-30",
+      "title": "First Academy Graduate Signing",
+      "description": "Graduate signed first professional contract, showcasing academy's success.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Academy signing"
+    },
+    {
+      "date": "2028-09-10",
+      "title": "USWNT Captain Appointment",
+      "description": "Named captain of USWNT for upcoming friendlies, leading team forward.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "US Soccer"
+    },
+    {
+      "date": "2029-02-20",
+      "title": "Motherhood Return Match",
+      "description": "Played first match after returning from maternity leave, scoring a goal.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Match report"
+    },
+    {
+      "date": "2029-05-05",
+      "title": "Endorsement Expansion",
+      "description": "Signed multi-year deal with major sports brand, featuring in global campaign.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Brand announcement"
+    },
+    {
+      "date": "2029-08-12",
+      "title": "Youth Advocacy Summit",
+      "description": "Spoke at UN Youth Sports Summit, promoting gender equality in athletics.",
+      "category": "Foundation",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Summit speech"
+    },
+    {
+      "date": "2030-01-15",
+      "title": "Injury Recovery Milestone",
+      "description": "Completed full rehabilitation, cleared for full training after 10-month recovery.",
+      "category": "Health",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "Medical update"
+    },
+    {
+      "date": "2030-04-22",
+      "title": "Championship Victory",
+      "description": "Chicago Red Stars won NWSL Championship; Rodman scored decisive goal.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "Championship final"
+    },
+    {
+      "date": "2030-07-01",
+      "title": "Hall of Fame Induction",
+      "description": "Inducted into US Soccer Hall of Fame, celebrating career impact.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Hall of Fame ceremony"
+    },
+    {
+      "date": "2031-12-31",
+      "title": "Future Vision Statement",
+      "description": "Announced long-term plan to expand academy and mentor next generation.",
+      "category": "Foundation",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "Press release"
+    },
+    {
+      "date": "2032-02-14",
+      "title": "Hall of Fame Induction Speech",
+      "description": "Gave inspiring speech on women's sports, legacy, and future generations.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Hall of Fame ceremony"
+    },
+    {
+      "date": "2032-05-01",
+      "title": "Academy Expansion Announcement",
+      "description": "Planned new campuses in three states to increase youth access.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Press release"
+    },
+    {
+      "date": "2032-07-20",
+      "title": "Olympic Gold Medal",
+      "description": "Won gold with USWNT at 2032 Summer Olympics, historic victory.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Olympic Committee"
+    },
+    {
+      "date": "2033-01-10",
+      "title": "Autobiography Release",
+      "description": "Released memoir detailing career, motherhood, and advocacy.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Publisher"
+    },
+    {
+      "date": "2033-03-15",
+      "title": "Mentorship Program Launch",
+      "description": "Started nationwide mentorship for girls in sports, pairing with coaches.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Program launch"
+    },
+    {
+      "date": "2033-06-30",
+      "title": "Minor Knee Strain",
+      "description": "Experienced minor knee strain, missed two matches, focused on rehab.",
+      "category": "Health",
+      "emotional_impact": -4,
+      "significance": 6,
+      "source": "Medical update"
+    },
+    {
+      "date": "2033-09-05",
+      "title": "Charity Soccer Event",
+      "description": "Organized charity match raising funds for underprivileged athletes.",
+      "category": "Foundation",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Event report"
+    },
+    {
+      "date": "2034-02-14",
+      "title": "US Soccer Coaching Badge",
+      "description": "Earned A-level coaching license, planning to mentor future coaches.",
+      "category": "Education",
+      "emotional_impact": 5,
+      "significance": 7,
+      "source": "Certification body"
+    },
+    {
+      "date": "2034-05-20",
+      "title": "Global Sports Award",
+      "description": "Received Global Sportswoman award for impact on and off field.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Award ceremony"
+    },
+    {
+      "date": "2034-12-31",
+      "title": "Retirement Announcement",
+      "description": "Announced retirement from pro play, focusing on academy and advocacy.",
+      "category": "Career",
+      "emotional_impact": 5,
+      "significance": 8,
+      "source": "Press release"
+    },
+    {
+      "date": "2035-03-15",
+      "title": "Academy Reaches 1000 Students",
+      "description": "Academy surpassed 1,000 alumni, many signing pro contracts.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Academy report"
+    },
+    {
+      "date": "2035-06-01",
+      "title": "USWNT Assistant Coach Appointed",
+      "description": "Named assistant coach for USWNT, transitioning to leadership role.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "US Soccer"
+    },
+    {
+      "date": "2035-09-10",
+      "title": "Documentary Premiere",
+      "description": "Premiered documentary on career, motherhood, and advocacy, reaching wide audience.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Film festival"
+    },
+    {
+      "date": "2036-02-20",
+      "title": "First Book Translation",
+      "description": "Book translated into five languages, expanding global impact.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Publisher"
+    },
+    {
+      "date": "2036-05-05",
+      "title": "Youth Sports Policy Advisor",
+      "description": "Appointed advisor to US Department of Education on youth sports equity.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Government announcement"
+    },
+    {
+      "date": "2036-08-12",
+      "title": "Inaugural Rodman Cup",
+      "description": "Launched annual youth soccer tournament named after her, promoting inclusion.",
+      "category": "Foundation",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Event press"
+    },
+    {
+      "date": "2037-01-15",
+      "title": "Honorary Degree Awarded",
+      "description": "Received honorary doctorate from Princeton for contributions to sport.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "University ceremony"
+    },
+    {
+      "date": "2037-04-30",
+      "title": "Endorsement Renewal",
+      "description": "Renewed major endorsement deal, now also featuring sustainability line.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Brand statement"
+    },
+    {
+      "date": "2037-07-25",
+      "title": "Final Professional Match",
+      "description": "Played final NWSL match, retiring after 16-year career.",
+      "category": "Career",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "Match report"
+    },
+    {
+      "date": "2037-11-01",
+      "title": "Legacy Foundation Launch",
+      "description": "Launched permanent endowment fund supporting female athletes' education.",
+      "category": "Foundation",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Foundation release"
+    },
+    {
+      "date": "2038-02-14",
+      "title": "Hall of Fame Exhibit Opens",
+      "description": "Exhibit honoring her career opens at National Soccer Museum, drawing fans worldwide.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Museum press"
+    },
+    {
+      "date": "2038-04-22",
+      "title": "Launched Scholarship Fund",
+      "description": "Created scholarship fund supporting 50 underprivileged girls annually in soccer.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Scholarship release"
+    },
+    {
+      "date": "2038-06-15",
+      "title": "Named Icon of the Year",
+      "description": "Named 'Icon of the Year' by Sports Monthly, recognizing impact on and off field.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Sports Monthly"
+    },
+    {
+      "date": "2038-09-10",
+      "title": "Hosted Global Summit",
+      "description": "Hosted global summit on gender equity in sports, attended by leaders and athletes.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Summit report"
+    },
+    {
+      "date": "2039-01-05",
+      "title": "Awarded Lifetime Honor",
+      "description": "Awarded Lifetime Achievement Award by International Sports Federation for advocacy.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "Federation award"
+    },
+    {
+      "date": "2039-03-20",
+      "title": "Opened Training Facility",
+      "description": "Opened state‑of‑the‑art training facility in New Jersey for elite youth players.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Facility opening"
+    },
+    {
+      "date": "2039-06-30",
+      "title": "Released Second Book Chapter",
+      "description": "Released second book chapter focusing on motherhood, career, and future generations.",
+      "category": "Personal",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Book publisher"
+    },
+    {
+      "date": "2039-09-12",
+      "title": "Mentored First Coach Cohort",
+      "description": "Mentored first cohort of 20 aspiring female coaches through new mentorship program.",
+      "category": "Education",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Mentorship launch"
+    },
+    {
+      "date": "2040-02-14",
+      "title": "Celebrated 20-Year Milestone",
+      "description": "Celebrated 20‑year career milestone with charity match raising $1M for youth programs.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "Milestone event"
+    },
+    {
+      "date": "2040-05-01",
+      "title": "Appointed UN Global Ambassador",
+      "description": "Appointed UN Global Ambassador for Women’s Sports, promoting access worldwide.",
+      "category": "Foundation",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "UN announcement"
+    },
+    {
+      "date": "2041-03-15",
+      "title": "UN Sports Equity Initiative Launched",
+      "description": "Initiative aims to fund 10,000 girls' soccer programs worldwide over next decade.",
+      "category": "Foundation",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "UN announcement"
+    }
+  ]
+}
