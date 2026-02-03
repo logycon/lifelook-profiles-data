@@ -1,0 +1,1823 @@
+{
+  "metadata": {
+    "entity_name": "Survivor",
+    "entity_type": "real_event",
+    "model_id": "google/gemini-2.5-flash-lite",
+    "generated_at": "2026-02-03T07:47:36.058656",
+    "quality_score": 9.4001,
+    "cost_usd": "0.000009674",
+    "response_time_seconds": 56.04389500617981,
+    "event_count": 200,
+    "prompt_tokens": 20780,
+    "completion_tokens": 18991,
+    "total_tokens": 39771,
+    "status": "test_result",
+    "entity_description": "Reality TV franchise where contestants compete to survive on remote islands",
+    "entity_source": "Survivor (TV series)",
+    "birth_year": 2000,
+    "death_year": null,
+    "category": "Cultural Movements"
+  },
+  "events": [
+    {
+      "date": "2000-05-02",
+      "title": "Survivor: Borneo Premieres",
+      "description": "The groundbreaking reality competition series debuts, introducing the world to tribal councils.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2000-05-02",
+      "title": "Introduction of Tribal Council",
+      "description": "The iconic Tribal Council ceremony is introduced, a cornerstone of the game.",
+      "category": "Foundation",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "Survivor: Borneo"
+    },
+    {
+      "date": "2000-05-02",
+      "title": "Introduction of Jeff Probst",
+      "description": "Jeff Probst hosts the first episode, becoming the show's iconic face.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 10,
+      "source": "Survivor: Borneo"
+    },
+    {
+      "date": "2000-05-02",
+      "title": "Introduction of the 'Outwit, Outplay, Outlast' Motto",
+      "description": "The iconic motto is established, defining the game's core principles.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "Survivor: Borneo"
+    },
+    {
+      "date": "2000-08-23",
+      "title": "Richard Hatch Wins Borneo",
+      "description": "Richard Hatch becomes the first Sole Survivor, winning $1 million and a car.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Borneo Finale"
+    },
+    {
+      "date": "2000-08-23",
+      "title": "First Sole Survivor Crowned",
+      "description": "Richard Hatch becomes the first winner, establishing the ultimate prize.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "Survivor: Borneo Finale"
+    },
+    {
+      "date": "2001-01-11",
+      "title": "Survivor: The Australian Outback",
+      "description": "The second season introduces new challenges and the iconic Outback setting.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2001-01-11",
+      "title": "Introduction of Immunity Idol",
+      "description": "The Immunity Idol is first introduced, adding a new layer of strategy.",
+      "category": "Foundation",
+      "emotional_impact": 7,
+      "significance": 9,
+      "source": "Survivor: The Outback"
+    },
+    {
+      "date": "2001-05-03",
+      "title": "Tina Wesson Wins The Outback",
+      "description": "Tina Wesson outwits her competitors to become the Sole Survivor.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: The Outback Finale"
+    },
+    {
+      "date": "2001-05-03",
+      "title": "First Female Winner",
+      "description": "Tina Wesson becomes the first woman to win Survivor.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: The Outback Finale"
+    },
+    {
+      "date": "2001-05-03",
+      "title": "First Medical Evacuation",
+      "description": "A contestant is medically evacuated, highlighting the show's physical toll.",
+      "category": "Health",
+      "emotional_impact": -4,
+      "significance": 6,
+      "source": "Survivor: The Outback"
+    },
+    {
+      "date": "2001-05-03",
+      "title": "First Tribal Switch",
+      "description": "The first tribal switch occurs, altering alliances and dynamics.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: The Outback"
+    },
+    {
+      "date": "2001-09-20",
+      "title": "Survivor: Africa",
+      "description": "The show ventures to Africa, presenting harsh conditions and new strategic dynamics.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2001-12-19",
+      "title": "Ethan Zohn Wins Africa",
+      "description": "Ethan Zohn's social game and strategic moves lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Africa Finale"
+    },
+    {
+      "date": "2002-02-07",
+      "title": "Survivor: Marquesas",
+      "description": "Marquesas brings a more aggressive gameplay and the introduction of the 'Outcast' twist.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2002-02-07",
+      "title": "Introduction of 'Outcasts' Twist",
+      "description": "The 'Outcasts' twist allows eliminated players a chance to return.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Marquesas"
+    },
+    {
+      "date": "2002-05-16",
+      "title": "Vecepia Towery Wins Marquesas",
+      "description": "Vecepia's quiet but effective game secures her the Sole Survivor title.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Marquesas Finale"
+    },
+    {
+      "date": "2002-05-16",
+      "title": "Vecepia's Quiet Victory",
+      "description": "Vecepia Towery wins Marquesas with a subtle yet effective strategic approach.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Marquesas Finale"
+    },
+    {
+      "date": "2002-09-19",
+      "title": "Survivor: Thailand",
+      "description": "Thailand's unique cultural setting and the 'Chuay Gahn' tribe dynamics.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2002-12-15",
+      "title": "Brian Heidik Wins Thailand",
+      "description": "Brian's dominant strategic play and manipulation lead to his victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Thailand Finale"
+    },
+    {
+      "date": "2003-02-13",
+      "title": "Survivor: The Amazon",
+      "description": "The season splits tribes by gender, leading to unique social and strategic challenges.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2003-05-18",
+      "title": "Jenna Morasca Wins Amazon",
+      "description": "Jenna's strategic prowess and social maneuvering secure her the win.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: The Amazon Finale"
+    },
+    {
+      "date": "2003-05-18",
+      "title": "Jenna Morasca's Strategic Game",
+      "description": "Jenna Morasca wins The Amazon with a strong strategic and social game.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: The Amazon Finale"
+    },
+    {
+      "date": "2003-09-18",
+      "title": "Survivor: Pearl Islands",
+      "description": "Pearl Islands introduces the 'Outcasts' twist and pirate-themed elements.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2003-09-18",
+      "title": "Pirate Theme Introduced",
+      "description": "Pearl Islands features a pirate theme, adding unique challenges and flair.",
+      "category": "Adventure",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Pearl Islands"
+    },
+    {
+      "date": "2003-12-14",
+      "title": "Sandra Diaz-Twine Wins Pearl Islands",
+      "description": "Sandra's 'as long as you don't vote me out' strategy leads to victory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Pearl Islands Finale"
+    },
+    {
+      "date": "2003-12-14",
+      "title": "Sandra's 'Anytime' Strategy",
+      "description": "Sandra's unique 'as long as you don't vote me out' strategy proves effective.",
+      "category": "Personal",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Pearl Islands"
+    },
+    {
+      "date": "2004-02-12",
+      "title": "Survivor: All-Stars",
+      "description": "Fan favorites return for a season of intense competition and shifting alliances.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2004-02-12",
+      "title": "All-Stars Season Debuts",
+      "description": "The first 'All-Stars' season brings back fan favorites for a high-stakes game.",
+      "category": "Career",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: All-Stars"
+    },
+    {
+      "date": "2004-05-09",
+      "title": "Amber Brkich Wins All-Stars",
+      "description": "Amber's strategic gameplay, aided by Rob's influence, secures her the win.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: All-Stars Finale"
+    },
+    {
+      "date": "2004-05-09",
+      "title": "First Couple Wins",
+      "description": "Amber Brkich and Rob Mariano win consecutive seasons, a unique achievement.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: All-Stars Finale"
+    },
+    {
+      "date": "2004-05-09",
+      "title": "Rob and Amber's Relationship",
+      "description": "Rob Mariano and Amber Brkich's showmance blossoms and leads to marriage.",
+      "category": "Family",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: All-Stars"
+    },
+    {
+      "date": "2004-09-16",
+      "title": "Survivor: Vanuatu",
+      "description": "Vanuatu features a dramatic tribal switch and the rise of Chris Daugherty.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2004-12-12",
+      "title": "Chris Daugherty Wins Vanuatu",
+      "description": "Chris's underdog story and strategic maneuvering lead him to the Sole Survivor title.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Vanuatu Finale"
+    },
+    {
+      "date": "2004-12-12",
+      "title": "Chris Daugherty's Underdog Win",
+      "description": "Chris Daugherty achieves an unlikely victory in Vanuatu.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Vanuatu Finale"
+    },
+    {
+      "date": "2005-02-17",
+      "title": "Survivor: Palau",
+      "description": "Palau's dominant Koror tribe and the shocking early exit of Ulong.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2005-02-17",
+      "title": "Dominant Tribe Narrative",
+      "description": "Palau's Koror tribe dominates, showcasing extreme tribal imbalance.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Palau"
+    },
+    {
+      "date": "2005-05-15",
+      "title": "Tom Westman Wins Palau",
+      "description": "Tom's leadership and physical dominance on the Koror tribe lead to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Palau Finale"
+    },
+    {
+      "date": "2005-05-15",
+      "title": "Tom Westman's Leadership",
+      "description": "Tom Westman demonstrates exceptional leadership and physical prowess.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Palau"
+    },
+    {
+      "date": "2005-09-15",
+      "title": "Survivor: Guatemala",
+      "description": "Guatemala brings back some former players and introduces new twists.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2005-12-18",
+      "title": "Danni Boatwright Wins Guatemala",
+      "description": "Danni's strategic gameplay and immunity challenge wins secure her victory.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Guatemala Finale"
+    },
+    {
+      "date": "2005-12-18",
+      "title": "Danni Boatwright's Strategic Play",
+      "description": "Danni Boatwright wins Guatemala with strategic moves and immunity wins.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Guatemala Finale"
+    },
+    {
+      "date": "2006-02-09",
+      "title": "Survivor: Panama",
+      "description": "Panama features the 'Exile Island' twist and a memorable cast.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2006-02-09",
+      "title": "Exile Island Twist",
+      "description": "The 'Exile Island' twist forces players into isolation, testing their resolve.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Panama"
+    },
+    {
+      "date": "2006-05-14",
+      "title": "Aras Baskauskas Wins Panama",
+      "description": "Aras's calm demeanor and strategic alliances lead him to the Sole Survivor title.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Panama Finale"
+    },
+    {
+      "date": "2006-05-14",
+      "title": "Aras Baskauskas's Calm Victory",
+      "description": "Aras Baskauskas wins Panama with a calm demeanor and strategic alliances.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Panama Finale"
+    },
+    {
+      "date": "2006-09-14",
+      "title": "Survivor: Cook Islands",
+      "description": "Cook Islands introduces tribes based on ethnicity, sparking controversy.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2006-09-14",
+      "title": "Tribes by Ethnicity",
+      "description": "Cook Islands divides tribes by ethnicity, sparking controversy and debate.",
+      "category": "Transformation",
+      "emotional_impact": 6,
+      "significance": 8,
+      "source": "Survivor: Cook Islands"
+    },
+    {
+      "date": "2006-12-17",
+      "title": "Yul Kwon Wins Cook Islands",
+      "description": "Yul's strategic mind and use of the idol lead him to a dominant victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Cook Islands Finale"
+    },
+    {
+      "date": "2007-02-08",
+      "title": "Survivor: Fiji",
+      "description": "Fiji's season is marked by early tribal divisions and the 'Rattlesnake' twist.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2007-05-13",
+      "title": "Earl Cole Wins Fiji",
+      "description": "Earl's social game and strategic alliances lead him to the Sole Survivor title.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Fiji Finale"
+    },
+    {
+      "date": "2007-05-13",
+      "title": "Earl Cole's Social Game",
+      "description": "Earl Cole wins Fiji with a strong social game and strategic alliances.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Fiji Finale"
+    },
+    {
+      "date": "2007-09-20",
+      "title": "Survivor: China",
+      "description": "China's rich cultural backdrop and the introduction of the 'Reward Challenge' twist.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2007-09-20",
+      "title": "Cultural Immersion",
+      "description": "Survivor: China immerses players in Chinese culture, adding unique challenges.",
+      "category": "Adventure",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: China"
+    },
+    {
+      "date": "2007-12-16",
+      "title": "Todd Herzog Wins China",
+      "description": "Todd's strategic brilliance and social game lead him to a dominant victory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: China Finale"
+    },
+    {
+      "date": "2007-12-16",
+      "title": "Todd Herzog's Strategic Brilliance",
+      "description": "Todd Herzog showcases masterful strategy and social manipulation.",
+      "category": "Personal",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: China"
+    },
+    {
+      "date": "2008-02-07",
+      "title": "Survivor: Micronesia",
+      "description": "Fans vs. Favorites season features intense strategic gameplay and blindsides.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2008-02-07",
+      "title": "Fans vs. Favorites Format",
+      "description": "Micronesia introduces the 'Fans vs. Favorites' format, creating intense dynamics.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Micronesia"
+    },
+    {
+      "date": "2008-05-11",
+      "title": "Parvati Shallow Wins Micronesia",
+      "description": "Parvati's strategic mastery and social game lead her to the Sole Survivor title.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Micronesia Finale"
+    },
+    {
+      "date": "2008-05-11",
+      "title": "Parvati's Black Widow Strategy",
+      "description": "Parvati Shallow employs the 'Black Widow' strategy to eliminate male threats.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Micronesia"
+    },
+    {
+      "date": "2008-09-18",
+      "title": "Survivor: Gabon",
+      "description": "Gabon's chaotic gameplay and unexpected winner.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2008-12-14",
+      "title": "Bob Crowley Wins Gabon",
+      "description": "Bob's quirky personality and strategic moves lead him to an unlikely victory.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Gabon Finale"
+    },
+    {
+      "date": "2008-12-14",
+      "title": "Bob Crowley's Quirky Win",
+      "description": "Bob Crowley wins Gabon with a unique personality and strategic moves.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Gabon Finale"
+    },
+    {
+      "date": "2009-02-12",
+      "title": "Survivor: Tocantins",
+      "description": "Tocantins features a strong cast and the iconic 'Jalapao' vs. 'Timbira' dynamic.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2009-02-12",
+      "title": "Strong Individual Game",
+      "description": "Tocantins showcases J.T. Thomas's exceptional individual gameplay.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Tocantins"
+    },
+    {
+      "date": "2009-05-10",
+      "title": "J.T. Thomas Wins Tocantins",
+      "description": "J.T.'s charm and strategic gameplay lead him to a dominant victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Tocantins Finale"
+    },
+    {
+      "date": "2009-05-10",
+      "title": "J.T. Thomas's Charm",
+      "description": "J.T. Thomas captivates viewers with his charm and impressive gameplay.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Tocantins"
+    },
+    {
+      "date": "2009-09-17",
+      "title": "Survivor: Samoa",
+      "description": "Samoa is dominated by Russell Hantz's aggressive gameplay and idol finds.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2009-12-20",
+      "title": "Natalie White Wins Samoa",
+      "description": "Natalie's quiet game and strategic alliances lead her to an upset victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Samoa Finale"
+    },
+    {
+      "date": "2009-12-20",
+      "title": "Natalie White's Upset Victory",
+      "description": "Natalie White wins Samoa with a quiet game and strategic alliances.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Samoa Finale"
+    },
+    {
+      "date": "2010-02-11",
+      "title": "Survivor: Heroes vs. Villains",
+      "description": "An epic battle of legendary players, considered one of the best seasons.",
+      "category": "Career",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2010-02-11",
+      "title": "Heroes vs. Villains Season",
+      "description": "The legendary 'Heroes vs. Villains' season is considered a high point.",
+      "category": "Career",
+      "emotional_impact": 9,
+      "significance": 10,
+      "source": "Survivor: Heroes vs. Villains"
+    },
+    {
+      "date": "2010-05-16",
+      "title": "Sandra Diaz-Twine Wins HvV",
+      "description": "Sandra becomes the first two-time winner, outplaying legends.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Survivor: Heroes vs. Villains Finale"
+    },
+    {
+      "date": "2010-05-16",
+      "title": "First Two-Time Winner",
+      "description": "Sandra Diaz-Twine becomes the first player to win Survivor twice.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Survivor: Heroes vs. Villains Finale"
+    },
+    {
+      "date": "2010-09-16",
+      "title": "Survivor: Nicaragua",
+      "description": "Nicaragua features older and younger tribes and the 'La Flor' vs. 'Sabor' dynamic.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2010-12-19",
+      "title": "Jud 'Fabio' Birza Wins Nicaragua",
+      "description": "Fabio's laid-back attitude and immunity wins lead him to an unexpected victory.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Nicaragua Finale"
+    },
+    {
+      "date": "2010-12-19",
+      "title": "Fabio's Unlikely Win",
+      "description": "Jud 'Fabio' Birza wins Nicaragua with a laid-back, immunity-driven game.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Nicaragua Finale"
+    },
+    {
+      "date": "2010-12-19",
+      "title": "Fabio's Immunity Dominance",
+      "description": "Fabio wins Nicaragua primarily through immunity challenge victories.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Nicaragua Finale"
+    },
+    {
+      "date": "2011-02-16",
+      "title": "Survivor: Redemption Island",
+      "description": "Redemption Island introduces the 'Redemption Island' twist.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2011-02-16",
+      "title": "Redemption Island Twist",
+      "description": "The 'Redemption Island' twist allows eliminated players to battle back.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Redemption Island"
+    },
+    {
+      "date": "2011-05-15",
+      "title": "Rob Mariano Wins Redemption Island",
+      "description": "Boston Rob's dominant strategic and social game leads to a long-awaited win.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Redemption Island Finale"
+    },
+    {
+      "date": "2011-05-15",
+      "title": "Boston Rob's Dominant Win",
+      "description": "Rob Mariano achieves a dominant victory after multiple attempts.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Redemption Island Finale"
+    },
+    {
+      "date": "2011-05-15",
+      "title": "Boston Rob's Redemption",
+      "description": "Rob Mariano finally wins after multiple attempts, fulfilling a long quest.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Redemption Island Finale"
+    },
+    {
+      "date": "2011-09-15",
+      "title": "Survivor: South Pacific",
+      "description": "South Pacific features the return of Ozzy and Coach, and the 'Redemption Island' twist.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2011-12-18",
+      "title": "Sophie Clarke Wins South Pacific",
+      "description": "Sophie's strategic mind and alliances lead her to a surprising victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: South Pacific Finale"
+    },
+    {
+      "date": "2011-12-18",
+      "title": "Sophie Clarke's Strategic Mind",
+      "description": "Sophie Clarke wins South Pacific with strategic thinking and alliances.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: South Pacific Finale"
+    },
+    {
+      "date": "2012-02-15",
+      "title": "Survivor: One World",
+      "description": "One World features tribes living on the same beach, leading to unique dynamics.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2012-05-13",
+      "title": "Kim Spradlin Wins One World",
+      "description": "Kim's dominant strategic and social game leads her to a near-perfect win.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: One World Finale"
+    },
+    {
+      "date": "2012-05-13",
+      "title": "Kim Spradlin's Masterclass",
+      "description": "Kim Spradlin delivers one of the most dominant strategic performances.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: One World Finale"
+    },
+    {
+      "date": "2012-05-13",
+      "title": "Kim Spradlin's Near-Perfect Game",
+      "description": "Kim Spradlin plays a near-flawless game, dominating strategically and socially.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: One World Finale"
+    },
+    {
+      "date": "2012-09-19",
+      "title": "Survivor: Philippines",
+      "description": "Philippines brings back 'lost' players and introduces new twists.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2012-12-16",
+      "title": "Denise Stapley Wins Philippines",
+      "description": "Denise's strategic gameplay and medical knowledge lead her to victory.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Philippines Finale"
+    },
+    {
+      "date": "2012-12-16",
+      "title": "Denise Stapley's Strategic Play",
+      "description": "Denise Stapley wins Philippines with strategic gameplay and medical knowledge.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Philippines Finale"
+    },
+    {
+      "date": "2013-02-13",
+      "title": "Survivor: Caramoan",
+      "description": "Fans vs. Favorites II features intense gameplay and strategic blindsides.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2013-02-13",
+      "title": "Second Fans vs. Favorites",
+      "description": "Caramoan brings back another 'Fans vs. Favorites' cast.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Caramoan"
+    },
+    {
+      "date": "2013-05-12",
+      "title": "John Cochran Wins Caramoan",
+      "description": "Cochran's strategic evolution and dominant gameplay lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Caramoan Finale"
+    },
+    {
+      "date": "2013-05-12",
+      "title": "Cochran's Strategic Evolution",
+      "description": "John Cochran transforms his game for a dominant strategic win.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Caramoan Finale"
+    },
+    {
+      "date": "2013-05-12",
+      "title": "Cochran's Strategic Masterpiece",
+      "description": "John Cochran executes a brilliant strategic game for his victory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Caramoan Finale"
+    },
+    {
+      "date": "2013-09-18",
+      "title": "Survivor: Blood vs. Water",
+      "description": "Blood vs. Water introduces loved ones competing against each other.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2013-09-18",
+      "title": "Loved Ones Compete",
+      "description": "Blood vs. Water introduces the twist of loved ones competing.",
+      "category": "Family",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Blood vs. Water"
+    },
+    {
+      "date": "2013-12-15",
+      "title": "Tyson Apostol Wins BvW",
+      "description": "Tyson's strategic prowess and social game lead him to the Sole Survivor title.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Blood vs. Water Finale"
+    },
+    {
+      "date": "2013-12-15",
+      "title": "Tyson Apostol's Strategic Victory",
+      "description": "Tyson Apostol wins Blood vs. Water with strategic prowess and social game.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Blood vs. Water Finale"
+    },
+    {
+      "date": "2014-02-26",
+      "title": "Survivor: Cagayan",
+      "description": "Cagayan features a strong cast and the 'Brains vs. Brawn vs. Beauty' theme.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2014-02-26",
+      "title": "Brains vs. Brawn vs. Beauty",
+      "description": "Cagayan divides tribes by mental, physical, and social attributes.",
+      "category": "Transformation",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Cagayan"
+    },
+    {
+      "date": "2014-05-21",
+      "title": "Tony Vlachos Wins Cagayan",
+      "description": "Tony's chaotic and aggressive gameplay leads him to a surprising victory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Cagayan Finale"
+    },
+    {
+      "date": "2014-05-21",
+      "title": "Tony Vlachos's Chaotic Win",
+      "description": "Tony Vlachos wins Cagayan with a highly unpredictable and aggressive game.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Cagayan Finale"
+    },
+    {
+      "date": "2014-05-21",
+      "title": "Tony's Spy Shacks",
+      "description": "Tony Vlachos utilizes innovative 'spy shacks' for strategic advantage.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Cagayan"
+    },
+    {
+      "date": "2014-09-24",
+      "title": "Survivor: San Juan del Sur",
+      "description": "San Juan del Sur returns to the loved ones theme with a twist.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2014-12-17",
+      "title": "Natalie Anderson Wins SJDS",
+      "description": "Natalie's strategic evolution and idol plays lead her to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: San Juan del Sur Finale"
+    },
+    {
+      "date": "2014-12-17",
+      "title": "Natalie Anderson's Comeback",
+      "description": "Natalie Anderson wins San Juan del Sur with strategic evolution and idol plays.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: San Juan del Sur Finale"
+    },
+    {
+      "date": "2015-02-25",
+      "title": "Survivor: Worlds Apart",
+      "description": "Worlds Apart divides tribes by social class: White Collar, Blue Collar, No Collar.",
+      "category": "Career",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2015-02-25",
+      "title": "Social Class Tribes",
+      "description": "Worlds Apart divides tribes by social class: White Collar, Blue Collar, No Collar.",
+      "category": "Transformation",
+      "emotional_impact": 6,
+      "significance": 7,
+      "source": "Survivor: Worlds Apart"
+    },
+    {
+      "date": "2015-05-20",
+      "title": "Mike Holloway Wins Worlds Apart",
+      "description": "Mike's 'White Collar' tribe struggles, but he rallies for a comeback win.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Worlds Apart Finale"
+    },
+    {
+      "date": "2015-05-20",
+      "title": "Mike Holloway's Rally",
+      "description": "Mike Holloway rallies from a tribe deficit to win Worlds Apart.",
+      "category": "Achievement",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Worlds Apart Finale"
+    },
+    {
+      "date": "2015-09-23",
+      "title": "Survivor: Cambodia",
+      "description": "Second Chance brings back 20 fan-favorite players who never won.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2015-09-23",
+      "title": "Second Chance Season",
+      "description": "Cambodia features 20 fan-favorite players who never won.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Cambodia"
+    },
+    {
+      "date": "2015-12-16",
+      "title": "Jeremy Collins Wins Cambodia",
+      "description": "Jeremy's strategic gameplay and social bonds lead him to a dominant victory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Cambodia Finale"
+    },
+    {
+      "date": "2015-12-16",
+      "title": "Jeremy Collins's Dominance",
+      "description": "Jeremy Collins plays a strong strategic and social game for the win.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Cambodia Finale"
+    },
+    {
+      "date": "2015-12-16",
+      "title": "Jeremy's Family Motivation",
+      "description": "Jeremy Collins plays with his family in mind, driving his strategic focus.",
+      "category": "Family",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Cambodia"
+    },
+    {
+      "date": "2016-02-17",
+      "title": "Survivor: Kaôh Rōng",
+      "description": "Kaôh Rōng features tribes based on physical and mental attributes.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2016-02-17",
+      "title": "Tribes by Attributes",
+      "description": "Kaôh Rōng divides tribes by physical and mental attributes.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Kaôh Rōng"
+    },
+    {
+      "date": "2016-05-18",
+      "title": "Michele Fitzgerald Wins Kaôh Rōng",
+      "description": "Michele's strategic gameplay and social connections lead her to an upset win.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Kaôh Rōng Finale"
+    },
+    {
+      "date": "2016-05-18",
+      "title": "Michele Fitzgerald's Upset",
+      "description": "Michele Fitzgerald wins Kaôh Rōng with strategic gameplay and social connections.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Kaôh Rōng Finale"
+    },
+    {
+      "date": "2016-09-21",
+      "title": "Survivor: Millennials vs. Gen X",
+      "description": "Millennials vs. Gen X pits two generational groups against each other.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2016-09-21",
+      "title": "Generational Tribes",
+      "description": "Millennials vs. Gen X pits two generational groups against each other.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Millennials vs. Gen X"
+    },
+    {
+      "date": "2016-12-14",
+      "title": "Adam Klein Wins MvGX",
+      "description": "Adam's emotional journey and strategic gameplay lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Millennials vs. Gen X Finale"
+    },
+    {
+      "date": "2016-12-14",
+      "title": "Adam Klein's Emotional Journey",
+      "description": "Adam Klein wins Millennials vs. Gen X, fueled by personal motivation.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Millennials vs. Gen X Finale"
+    },
+    {
+      "date": "2017-02-15",
+      "title": "Survivor: Game Changers",
+      "description": "Game Changers brings back 20 players known for their strategic moves.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2017-02-15",
+      "title": "Game Changers Season",
+      "description": "Game Changers features 20 players known for their strategic moves.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: Game Changers"
+    },
+    {
+      "date": "2017-05-24",
+      "title": "Sarah Lacina Wins Game Changers",
+      "description": "Sarah's strategic evolution and aggressive gameplay lead her to victory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Game Changers Finale"
+    },
+    {
+      "date": "2017-05-24",
+      "title": "Sarah Lacina's Evolution",
+      "description": "Sarah Lacina transforms her game for a dominant strategic victory.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Game Changers Finale"
+    },
+    {
+      "date": "2017-05-24",
+      "title": "Sarah Lacina's Strategic Shift",
+      "description": "Sarah Lacina evolves from a cop to a master strategist.",
+      "category": "Transformation",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: Game Changers Finale"
+    },
+    {
+      "date": "2017-09-27",
+      "title": "Survivor: Heroes vs. Healers vs. Hustlers",
+      "description": "Heroes vs. Healers vs. Hustlers divides tribes by perceived archetypes.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2017-09-27",
+      "title": "Archetype Tribes",
+      "description": "Heroes vs. Healers vs. Hustlers divides tribes by perceived archetypes.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Heroes vs. Healers vs. Hustlers"
+    },
+    {
+      "date": "2017-12-20",
+      "title": "Ben Driebergen Wins HHH",
+      "description": "Ben's strategic use of idols and social game lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Heroes vs. Healers vs. Hustlers Finale"
+    },
+    {
+      "date": "2017-12-20",
+      "title": "Ben Driebergen's Idol Play",
+      "description": "Ben Driebergen wins Heroes vs. Healers vs. Hustlers with strategic idol use.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Heroes vs. Healers vs. Hustlers Finale"
+    },
+    {
+      "date": "2018-02-28",
+      "title": "Survivor: Ghost Island",
+      "description": "Ghost Island features a twist where players visit a 'haunted' island.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2018-02-28",
+      "title": "Ghost Island Twist",
+      "description": "Ghost Island features a twist where players visit a 'haunted' island.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Ghost Island"
+    },
+    {
+      "date": "2018-05-23",
+      "title": "Wendell Holland Wins Ghost Island",
+      "description": "Wendell's strategic gameplay and social charm lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Ghost Island Finale"
+    },
+    {
+      "date": "2018-05-23",
+      "title": "Wendell Holland's Strategic Game",
+      "description": "Wendell Holland wins Ghost Island with strategic gameplay and social charm.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Ghost Island Finale"
+    },
+    {
+      "date": "2018-09-26",
+      "title": "Survivor: David vs. Goliath",
+      "description": "David vs. Goliath pits underdogs against those with advantages.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2018-09-26",
+      "title": "David vs. Goliath Theme",
+      "description": "David vs. Goliath pits underdogs against those with advantages.",
+      "category": "Transformation",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor: David vs. Goliath"
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Nick Wilson Wins DvG",
+      "description": "Nick's strategic gameplay and social maneuvering lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: David vs. Goliath Finale"
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Nick Wilson's Strategic Play",
+      "description": "Nick Wilson wins David vs. Goliath with strong strategic and social gameplay.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: David vs. Goliath Finale"
+    },
+    {
+      "date": "2018-12-19",
+      "title": "Nick Wilson's Underdog Story",
+      "description": "Nick Wilson embodies the underdog spirit, overcoming challenges to win.",
+      "category": "Personal",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor: David vs. Goliath Finale"
+    },
+    {
+      "date": "2019-02-20",
+      "title": "Survivor: Edge of Extinction",
+      "description": "Edge of Extinction introduces a new twist allowing players to return.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2019-02-20",
+      "title": "Edge of Extinction Twist",
+      "description": "Edge of Extinction introduces a twist allowing eliminated players to return.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Edge of Extinction"
+    },
+    {
+      "date": "2019-05-15",
+      "title": "Chris Underwood Wins EoE",
+      "description": "Chris's return from the Edge of Extinction leads to a surprising victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Edge of Extinction Finale"
+    },
+    {
+      "date": "2019-05-15",
+      "title": "Return from the Edge",
+      "description": "Chris Underwood returns from the Edge of Extinction to win.",
+      "category": "Transformation",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Edge of Extinction Finale"
+    },
+    {
+      "date": "2019-05-15",
+      "title": "Chris Underwood's Return",
+      "description": "Chris Underwood's remarkable comeback from the Edge of Extinction.",
+      "category": "Transformation",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Edge of Extinction Finale"
+    },
+    {
+      "date": "2019-09-25",
+      "title": "Survivor: Island of the Idols",
+      "description": "Island of the Idols features mentors and a new twist.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2019-09-25",
+      "title": "Island of the Idols Twist",
+      "description": "Island of the Idols features mentors and a new twist.",
+      "category": "Transformation",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor: Island of the Idols"
+    },
+    {
+      "date": "2019-12-18",
+      "title": "Tommy Sheehan Wins IOTI",
+      "description": "Tommy's strategic gameplay and social connections lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor: Island of the Idols Finale"
+    },
+    {
+      "date": "2020-02-12",
+      "title": "Survivor: Winners at War",
+      "description": "The most anticipated season: 20 former winners compete.",
+      "category": "Career",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2020-02-12",
+      "title": "Winners at War Season",
+      "description": "The highly anticipated season features 20 former winners competing.",
+      "category": "Career",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Survivor: Winners at War"
+    },
+    {
+      "date": "2020-05-13",
+      "title": "Tony Vlachos Wins WaW",
+      "description": "Tony becomes the second two-time winner, playing an incredible game.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Survivor: Winners at War Finale"
+    },
+    {
+      "date": "2020-05-13",
+      "title": "Tony's Second Win",
+      "description": "Tony Vlachos becomes the second two-time winner in an epic season.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Survivor: Winners at War Finale"
+    },
+    {
+      "date": "2020-05-13",
+      "title": "Tony's Second Masterclass",
+      "description": "Tony Vlachos delivers another masterful strategic performance for his second win.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Survivor: Winners at War Finale"
+    },
+    {
+      "date": "2020-05-13",
+      "title": "Tony's Second Masterful Win",
+      "description": "Tony Vlachos cements his legacy with a second, dominant Survivor win.",
+      "category": "Achievement",
+      "emotional_impact": 10,
+      "significance": 10,
+      "source": "Survivor: Winners at War Finale"
+    },
+    {
+      "date": "2020-09-01",
+      "title": "COVID-19 Pandemic Halts Production",
+      "description": "Global pandemic forces a hiatus for Survivor's 41st season.",
+      "category": "Health",
+      "emotional_impact": -5,
+      "significance": 9,
+      "source": "CBS Announcement"
+    },
+    {
+      "date": "2020-09-01",
+      "title": "Production Paused Due to Pandemic",
+      "description": "COVID-19 pandemic forces a hiatus, delaying future seasons.",
+      "category": "Health",
+      "emotional_impact": -5,
+      "significance": 9,
+      "source": "CBS Announcement"
+    },
+    {
+      "date": "2021-09-22",
+      "title": "Survivor: 41",
+      "description": "Survivor returns with new twists and a faster pace after a hiatus.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2021-09-22",
+      "title": "Survivor Returns Post-Hiatus",
+      "description": "Survivor returns with season 41, featuring new twists and a faster pace.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor 41"
+    },
+    {
+      "date": "2021-12-22",
+      "title": "Erika Casupanan Wins Survivor 41",
+      "description": "Erika's strategic gameplay and social connections lead her to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 41 Finale"
+    },
+    {
+      "date": "2021-12-22",
+      "title": "Erika Casupanan's Win",
+      "description": "Erika Casupanan wins Survivor 41 with strong strategic and social play.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 41 Finale"
+    },
+    {
+      "date": "2021-12-22",
+      "title": "Erika Casupanan's Strategic Acumen",
+      "description": "Erika Casupanan demonstrates sharp strategic thinking and social maneuvering.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 41 Finale"
+    },
+    {
+      "date": "2021-12-22",
+      "title": "Erika Casupanan's Strategic Acumen",
+      "description": "Erika Casupanan wins Survivor 41 with sharp strategic thinking.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 41 Finale"
+    },
+    {
+      "date": "2022-03-09",
+      "title": "Survivor: 42",
+      "description": "Survivor 42 continues with the new era's format and twists.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2022-03-09",
+      "title": "Survivor 42 Debuts",
+      "description": "Survivor 42 continues the 'new era' format with fresh challenges.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor 42"
+    },
+    {
+      "date": "2022-05-25",
+      "title": "Maryanne Oketch Wins Survivor 42",
+      "description": "Maryanne's positive attitude and strategic moves secure her the win.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 42 Finale"
+    },
+    {
+      "date": "2022-05-25",
+      "title": "Maryanne Oketch Wins",
+      "description": "Maryanne Oketch wins Survivor 42 with her unique personality and strategy.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 42 Finale"
+    },
+    {
+      "date": "2022-05-25",
+      "title": "Maryanne Oketch's Joyful Win",
+      "description": "Maryanne Oketch wins with infectious energy and strategic gameplay.",
+      "category": "Personal",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 42 Finale"
+    },
+    {
+      "date": "2022-05-25",
+      "title": "Maryanne Oketch's Strategic Joy",
+      "description": "Maryanne Oketch wins Survivor 42 with strategic gameplay and positive energy.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 42 Finale"
+    },
+    {
+      "date": "2022-09-21",
+      "title": "Survivor: 43",
+      "description": "Survivor 43 introduces new challenges and strategic elements.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2022-09-21",
+      "title": "Survivor 43 Premieres",
+      "description": "Survivor 43 introduces new twists and strategic elements.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor 43"
+    },
+    {
+      "date": "2022-12-14",
+      "title": "Mike Gabler Wins Survivor 43",
+      "description": "Mike's strategic gameplay and social connections lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 43 Finale"
+    },
+    {
+      "date": "2022-12-14",
+      "title": "Mike Gabler's Victory",
+      "description": "Mike Gabler wins Survivor 43 with a strategic and social game.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 43 Finale"
+    },
+    {
+      "date": "2022-12-14",
+      "title": "Mike Gabler's Strategic Acumen",
+      "description": "Mike Gabler wins Survivor 43 with a blend of strategy and social grace.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 43 Finale"
+    },
+    {
+      "date": "2022-12-14",
+      "title": "Mike Gabler's Strategic Victory",
+      "description": "Mike Gabler wins Survivor 43 with a strategic and social game.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 43 Finale"
+    },
+    {
+      "date": "2023-03-01",
+      "title": "Survivor: 44",
+      "description": "Survivor 44 continues the new era with intense competition.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2023-03-01",
+      "title": "Survivor 44 Begins",
+      "description": "Survivor 44 continues the 'new era' with intense competition.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor 44"
+    },
+    {
+      "date": "2023-05-24",
+      "title": "Yamil 'Yanu' Garcia Wins Survivor 44",
+      "description": "Yanu's strategic gameplay and social connections lead him to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 44 Finale"
+    },
+    {
+      "date": "2023-05-24",
+      "title": "Yanu Garcia Wins",
+      "description": "Yanu Garcia wins Survivor 44 with strategic and social gameplay.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 44 Finale"
+    },
+    {
+      "date": "2023-05-24",
+      "title": "Yanu Garcia's Strategic Prowess",
+      "description": "Yanu Garcia wins Survivor 44 with a strong strategic and social game.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 44 Finale"
+    },
+    {
+      "date": "2023-05-24",
+      "title": "Yanu Garcia's Strategic Prowess",
+      "description": "Yanu Garcia wins Survivor 44 with a strong strategic and social game.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 44 Finale"
+    },
+    {
+      "date": "2023-09-20",
+      "title": "Survivor: 45",
+      "description": "Survivor 45 expands to 90-minute episodes, offering more depth.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2023-09-20",
+      "title": "Survivor 45 Expands",
+      "description": "Survivor 45 features 90-minute episodes, allowing for deeper gameplay.",
+      "category": "Career",
+      "emotional_impact": 8,
+      "significance": 9,
+      "source": "Survivor 45"
+    },
+    {
+      "date": "2023-12-20",
+      "title": "Dee Valladares Wins Survivor 45",
+      "description": "Dee's strategic dominance and social game lead her to a decisive win.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor 45 Finale"
+    },
+    {
+      "date": "2023-12-20",
+      "title": "Dee Valladares Wins",
+      "description": "Dee Valladares wins Survivor 45 with a dominant strategic and social game.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor 45 Finale"
+    },
+    {
+      "date": "2023-12-20",
+      "title": "Dee Valladares's Dominance",
+      "description": "Dee Valladares executes a dominant strategic and social game for the win.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor 45 Finale"
+    },
+    {
+      "date": "2023-12-20",
+      "title": "Dee Valladares's Dominant Win",
+      "description": "Dee Valladares wins Survivor 45 with a dominant strategic and social game.",
+      "category": "Achievement",
+      "emotional_impact": 9,
+      "significance": 9,
+      "source": "Survivor 45 Finale"
+    },
+    {
+      "date": "2024-02-28",
+      "title": "Survivor: 46",
+      "description": "Survivor 46 continues the new era with dynamic gameplay.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2024-02-28",
+      "title": "Survivor 46 Premieres",
+      "description": "Survivor 46 continues the 'new era' with dynamic gameplay.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "Survivor 46"
+    },
+    {
+      "date": "2024-05-22",
+      "title": "Kenzie Petty Wins Survivor 46",
+      "description": "Kenzie's strategic gameplay and social connections lead her to victory.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 46 Finale"
+    },
+    {
+      "date": "2024-05-22",
+      "title": "Kenzie Petty Wins",
+      "description": "Kenzie Petty wins Survivor 46 with strategic and social gameplay.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 46 Finale"
+    },
+    {
+      "date": "2024-05-22",
+      "title": "Kenzie Petty's Strategic Victory",
+      "description": "Kenzie Petty wins Survivor 46 with strategic and social gameplay.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 46 Finale"
+    },
+    {
+      "date": "2024-05-22",
+      "title": "Kenzie Petty's Strategic Victory",
+      "description": "Kenzie Petty wins Survivor 46 with strategic and social gameplay.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 46 Finale"
+    },
+    {
+      "date": "2024-09-18",
+      "title": "Survivor 47 Premieres",
+      "description": "Survivor 47 continues the 'new era' with new twists and challenges.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    },
+    {
+      "date": "2024-12-18",
+      "title": "Sole Survivor of Season 47 Crowned",
+      "description": "The winner of Survivor 47 is revealed, concluding another season.",
+      "category": "Achievement",
+      "emotional_impact": 8,
+      "significance": 8,
+      "source": "Survivor 47 Finale"
+    },
+    {
+      "date": "2025-02-26",
+      "title": "Survivor 48 Premieres",
+      "description": "Survivor 48 kicks off with a new cast and fresh strategic dynamics.",
+      "category": "Career",
+      "emotional_impact": 7,
+      "significance": 8,
+      "source": "CBS Broadcast"
+    }
+  ]
+}
